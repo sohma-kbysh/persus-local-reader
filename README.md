@@ -28,6 +28,39 @@ Perseus プロジェクトが公開しているデータを用いた、古典ギ
 Open Perseus Local Reader.app
 ```
 
+
+
+#### 初回起動時の「読書環境フォルダ」の選択
+
+初めて `Open Perseus Local Reader.app` を開くと、**読書環境フォルダを選択する画面**が表示されます。これは正常な動作です。
+
+この画面では、**GitHub からダウンロードした ZIP を解凍してできた、一番外側のフォルダを必ず選択してください。** 通常、フォルダ名は次のようになっています。
+
+```text
+perseus-local-reader-main
+```
+
+正しく選ぶフォルダは、開いたときに次のファイルが見えるフォルダです。
+
+```text
+perseus-local-reader-main/
+├── Open Perseus Local Reader.app
+├── Close Perseus Local Reader.app
+├── Update Perseus Local Reader.app
+├── README.md
+└── .developer/                 （通常は Finder では非表示です）
+```
+
+**次のものを選ばないでください。**
+
+- `Open Perseus Local Reader.app` そのもの
+- `.developer` フォルダ
+- `.developer` の中にある `app` や `scripts` フォルダ
+- ZIP ファイルそのもの
+- `Downloads` フォルダ全体
+
+要するに、**解凍後にできた `perseus-local-reader-main` フォルダを、そのまま選択する**のが正解です。正しいフォルダを一度選ぶと、その場所が保存され、通常は次回以降もう一度選択する必要はありません。
+
 ダブルクリックすると、あなたのパソコンの中だけで小さなプログラムが動き出し
 （インターネット上のどこかにあるサーバーに接続するのではなく、いわば
 あなたのパソコンの中に小さな図書館を一時的に開くようなイメージです）、
@@ -133,6 +166,14 @@ On macOS, double-click:
 ```text
 Open Perseus Local Reader.app
 ```
+
+
+
+On first launch, macOS may ask you to choose the reader environment folder.
+Choose the **outermost folder created when you unzipped the download**—normally
+`perseus-local-reader-main`, containing the three `.app` launchers, `README.md`,
+and the hidden `.developer` folder. Do not choose the `.app` itself or the
+`.developer` subfolder.
 
 It starts the local reader and opens your browser. The reader stops itself
 automatically after about 8 hours without access, or immediately via
