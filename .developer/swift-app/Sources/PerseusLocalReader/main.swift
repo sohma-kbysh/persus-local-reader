@@ -5,6 +5,8 @@ import Darwin
 private let repositoryOwner = "sohma-kbysh"
 private let repositoryName = "perseus-local-reader"
 private let updateBranch = "main"
+private let repositoryURLString =
+    "https://github.com/\(repositoryOwner)/\(repositoryName)"
 private let defaultPort = 8000
 
 final class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate {
@@ -20,6 +22,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate {
 
     func applicationDidFinishLaunching(_ notification: Notification) {
         NSApp.setActivationPolicy(.regular)
+        buildApplicationMenu()
         buildWindow()
         NSApp.activate(ignoringOtherApps: true)
 
@@ -39,6 +42,144 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate {
 
     func applicationWillTerminate(_ notification: Notification) {
         stopServer()
+    }
+
+    private func buildApplicationMenu() {
+        let applicationName = "Perseus Local Reader"
+
+        let mainMenu = NSMenu()
+        let applicationMenuItem = NSMenuItem()
+        mainMenu.addItem(applicationMenuItem)
+
+        let applicationMenu = NSMenu(title: applicationName)
+
+        let aboutItem = NSMenuItem(
+            title: "\(applicationName) について",
+            action: #selector(showAboutPanel),
+            keyEquivalent: ""
+        )
+        aboutItem.target = self
+        applicationMenu.addItem(aboutItem)
+
+        applicationMenu.addItem(.separator())
+
+        let openReaderItem = NSMenuItem(
+            title: "ブラウザでReaderを開く",
+            action: #selector(openReader),
+            keyEquivalent: "o"
+        )
+        openReaderItem.target = self
+        applicationMenu.addItem(openReaderItem)
+
+        let updateItem = NSMenuItem(
+            title: "アップデートを確認…",
+            action: #selector(checkUpdatesManually),
+            keyEquivalent: ""
+        )
+        updateItem.target = self
+        applicationMenu.addItem(updateItem)
+
+        let githubItem = NSMenuItem(
+            title: "GitHub リポジトリを開く",
+            action: #selector(openGitHubRepository),
+            keyEquivalent: ""
+        )
+        githubItem.target = self
+        applicationMenu.addItem(githubItem)
+
+        applicationMenu.addItem(.separator())
+
+        let hideItem = NSMenuItem(
+            title: "\(applicationName)を隠す",
+            action: #selector(NSApplication.hide(_:)),
+            keyEquivalent: "h"
+        )
+        hideItem.target = NSApp
+        applicationMenu.addItem(hideItem)
+
+        let hideOthersItem = NSMenuItem(
+            title: "ほかを隠す",
+            action: #selector(NSApplication.hideOtherApplications(_:)),
+            keyEquivalent: "h"
+        )
+        hideOthersItem.keyEquivalentModifierMask = [.command, .option]
+        hideOthersItem.target = NSApp
+        applicationMenu.addItem(hideOthersItem)
+
+        let showAllItem = NSMenuItem(
+            title: "すべてを表示",
+            action: #selector(NSApplication.unhideAllApplications(_:)),
+            keyEquivalent: ""
+        )
+        showAllItem.target = NSApp
+        applicationMenu.addItem(showAllItem)
+
+        applicationMenu.addItem(.separator())
+
+        let quitItem = NSMenuItem(
+            title: "\(applicationName)を終了",
+            action: #selector(NSApplication.terminate(_:)),
+            keyEquivalent: "q"
+        )
+        quitItem.target = NSApp
+        applicationMenu.addItem(quitItem)
+
+        applicationMenuItem.submenu = applicationMenu
+
+        let windowMenuItem = NSMenuItem()
+        mainMenu.addItem(windowMenuItem)
+
+        let windowMenu = NSMenu(title: "ウインドウ")
+        let minimizeItem = NSMenuItem(
+            title: "しまう",
+            action: #selector(NSWindow.performMiniaturize(_:)),
+            keyEquivalent: "m"
+        )
+        windowMenu.addItem(minimizeItem)
+
+        let bringAllToFrontItem = NSMenuItem(
+            title: "すべてを手前に移動",
+            action: #selector(NSApplication.arrangeInFront(_:)),
+            keyEquivalent: ""
+        )
+        bringAllToFrontItem.target = NSApp
+        windowMenu.addItem(bringAllToFrontItem)
+
+        windowMenuItem.submenu = windowMenu
+        NSApp.windowsMenu = windowMenu
+        NSApp.mainMenu = mainMenu
+    }
+
+    @objc private func showAboutPanel() {
+        let version =
+            Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString")
+            as? String ?? "不明"
+
+        let build =
+            Bundle.main.object(forInfoDictionaryKey: "CFBundleVersion")
+            as? String ?? version
+
+        let credits = NSMutableAttributedString(
+            string:
+                "Perseus Digital Library の公開データを利用した、"
+                + "古典ギリシア語のローカル読書環境です。\n\n"
+                + "Version \(version)  (Build \(build))"
+        )
+
+        NSApp.orderFrontStandardAboutPanel(options: [
+            .applicationName: "Perseus Local Reader",
+            .applicationVersion: version,
+            .version: "Version \(version)",
+            .credits: credits,
+        ])
+        NSApp.activate(ignoringOtherApps: true)
+    }
+
+    @objc private func openGitHubRepository() {
+        guard let url = URL(string: repositoryURLString) else {
+            return
+        }
+        NSWorkspace.shared.open(url)
     }
 
     private func buildWindow() {
