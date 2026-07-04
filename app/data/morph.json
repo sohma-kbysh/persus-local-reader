@@ -1,0 +1,6336 @@
+{
+  "forms": {
+    "Ἅιδου": {
+      "form": "Ἅιδου",
+      "bare": "aidou",
+      "beta": "*a(/idou",
+      "analyses": [
+        {
+          "lemmaId": "*(/aidhs",
+          "lemma": "Ἅιδης",
+          "definition": "ao",
+          "parses": [
+            {
+              "form": "ἅιδου",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἄνυτον": {
+      "form": "Ἄνυτον",
+      "bare": "anuton",
+      "beta": "*a)/nuton",
+      "analyses": [
+        {
+          "lemmaId": "a)nu/w",
+          "lemma": "ἀνύω",
+          "definition": "effect, accomplish,",
+          "parses": [
+            {
+              "form": "ἄνυτον",
+              "parse": "verb 3rd pl imperf ind act attic doric aeolic"
+            },
+            {
+              "form": "ἄνυτον",
+              "parse": "verb 1st sg imperf ind act attic doric aeolic"
+            },
+            {
+              "form": "ἄνυτον",
+              "parse": "part sg pres act neut voc attic"
+            },
+            {
+              "form": "ἄνυτον",
+              "parse": "part sg pres act neut nom attic"
+            },
+            {
+              "form": "ἄνυτον",
+              "parse": "part sg pres act neut acc attic"
+            },
+            {
+              "form": "ἄνυτον",
+              "parse": "part sg pres act masc voc attic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἄνυτος": {
+      "form": "Ἄνυτος",
+      "bare": "anutos",
+      "beta": "*a)/nutos",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀδείμαντος": {
+      "form": "Ἀδείμαντος",
+      "bare": "adeimantos",
+      "beta": "*a)dei/mantos",
+      "analyses": [
+        {
+          "lemmaId": "a)dei/mantos",
+          "lemma": "ἀδείμαντος",
+          "definition": "fearless, dauntless",
+          "parses": [
+            {
+              "form": "ἀδείμαντος",
+              "parse": "adj sg masc nom"
+            },
+            {
+              "form": "ἀδείμαντος",
+              "parse": "adj sg fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀμφιπόλει": {
+      "form": "Ἀμφιπόλει",
+      "bare": "amfipolei",
+      "beta": "*a)mfipo/lei",
+      "analyses": [
+        {
+          "lemmaId": "a)mfi/polis",
+          "lemma": "ἀμφίπολις",
+          "definition": "encompassing city,",
+          "parses": [
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "noun sg fem dat epic"
+            },
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "noun dual fem nom attic epic contr"
+            },
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "noun dual fem voc attic epic contr"
+            },
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "noun dual fem acc attic epic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)mfipole/w",
+          "lemma": "ἀμφιπολέω",
+          "definition": "attend constantly,",
+          "parses": [
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "verb 3rd sg pres ind act attic epic doric ionic contr"
+            },
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "verb 2nd sg pres ind mp attic epic doric ionic aeolic contr"
+            },
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "verb 3rd sg imperf ind act attic epic contr unaugmented"
+            },
+            {
+              "form": "ἀμφιπόλει",
+              "parse": "verb 2nd sg pres imperat act attic epic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀναξαγόρου": {
+      "form": "Ἀναξαγόρου",
+      "bare": "anacagorou",
+      "beta": "*a)nacago/rou",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀντιφῶν": {
+      "form": "Ἀντιφῶν",
+      "bare": "antifwn",
+      "beta": "*a)ntifw=n",
+      "analyses": [
+        {
+          "lemmaId": "a)nti/fwnos",
+          "lemma": "ἀντίφωνος",
+          "definition": "sounding in answer, concordant,",
+          "parses": [
+            {
+              "form": "ἀντίφων᾽",
+              "parse": "adj sg fem voc"
+            },
+            {
+              "form": "ἀντίφων᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἀντίφων᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἀντίφων᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἀντίφων᾽",
+              "parse": "adj pl neut acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀντιοχὶς": {
+      "form": "Ἀντιοχὶς",
+      "bare": "antioxis",
+      "beta": "*a)ntioxi\\s",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀνύτῳ": {
+      "form": "Ἀνύτῳ",
+      "bare": "anutw",
+      "beta": "*a)nu/tw|",
+      "analyses": [
+        {
+          "lemmaId": "a)nu/w",
+          "lemma": "ἀνύω",
+          "definition": "effect, accomplish,",
+          "parses": [
+            {
+              "form": "ἀνύτω",
+              "parse": "verb 1st sg pres ind act attic doric aeolic"
+            },
+            {
+              "form": "ἀνύτω",
+              "parse": "verb 1st sg pres subj act attic"
+            },
+            {
+              "form": "ἁνύτω",
+              "parse": "verb 1st sg pres subj act attic"
+            },
+            {
+              "form": "ἁνύτω",
+              "parse": "verb 1st sg pres ind act attic doric aeolic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)nuth/s",
+          "lemma": "ἀνυτής",
+          "definition": "exactor,",
+          "parses": [
+            {
+              "form": "ἀνύτω",
+              "parse": "noun sg masc gen attic epic ionic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀπολλόδωρος": {
+      "form": "Ἀπολλόδωρος",
+      "bare": "apollodwros",
+      "beta": "*a)pollo/dwros",
+      "analyses": [
+        {
+          "lemmaId": "*)apollo/dwros",
+          "lemma": "Ἀπολλόδωρος",
+          "definition": "Apollodorus,",
+          "parses": [
+            {
+              "form": "ἀπολλόδωρος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀθηναίων": {
+      "form": "Ἀθηναίων",
+      "bare": "aqhnaiwn",
+      "beta": "*a)qhnai/wn",
+      "analyses": [
+        {
+          "lemmaId": "*)aqh/naia",
+          "lemma": "Ἀθήναια",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἀθηναίων",
+              "parse": "noun pl neut gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*)aqh/naion",
+          "lemma": "Ἀθήναιον",
+          "definition": "the temple of Athena",
+          "parses": [
+            {
+              "form": "ἀθηναίων",
+              "parse": "noun pl neut gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*)aqhnai=os",
+          "lemma": "Ἀθηναῖος",
+          "definition": "Athenian, of",
+          "parses": [
+            {
+              "form": "ἀθηναίων",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "ἀθηναίων",
+              "parse": "adj pl masc gen"
+            },
+            {
+              "form": "ἀθηναίων",
+              "parse": "adj pl fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀθηναῖοι": {
+      "form": "Ἀθηναῖοι",
+      "bare": "aqhnaioi",
+      "beta": "*a)qhnai=oi",
+      "analyses": [
+        {
+          "lemmaId": "*)aqhnai=os",
+          "lemma": "Ἀθηναῖος",
+          "definition": "Athenian, of",
+          "parses": [
+            {
+              "form": "ἀθηναῖοι",
+              "parse": "adj pl masc voc"
+            },
+            {
+              "form": "ἀθηναῖοι",
+              "parse": "adj pl masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀθηναῖος": {
+      "form": "Ἀθηναῖος",
+      "bare": "aqhnaios",
+      "beta": "*a)qhnai=os",
+      "analyses": [
+        {
+          "lemmaId": "*)aqhnai=os",
+          "lemma": "Ἀθηναῖος",
+          "definition": "Athenian, of",
+          "parses": [
+            {
+              "form": "ἀθηναῖος",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀρίστωνος": {
+      "form": "Ἀρίστωνος",
+      "bare": "aristwnos",
+      "beta": "*a)ri/stwnos",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἀριστοφάνους": {
+      "form": "Ἀριστοφάνους",
+      "bare": "aristofanous",
+      "beta": "*a)ristofa/nous",
+      "analyses": [
+        {
+          "lemmaId": "*)aristofa/nhs",
+          "lemma": "Ἀριστοφάνης",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἀριστοφάνους",
+              "parse": "noun sg masc gen attic epic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Αἴαντι": {
+      "form": "Αἴαντι",
+      "bare": "aianti",
+      "beta": "*ai)/anti",
+      "analyses": [
+        {
+          "lemmaId": "*ai)/as",
+          "lemma": "Αἴας",
+          "definition": "Ajax",
+          "parses": [
+            {
+              "form": "αἴαντι",
+              "parse": "noun sg masc dat"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ai)a/zw",
+          "lemma": "αἰάζω",
+          "definition": "cry",
+          "parses": [
+            {
+              "form": "αἴαντι",
+              "parse": "verb 3rd pl fut ind act doric contr"
+            },
+            {
+              "form": "αἴαντι",
+              "parse": "part sg fut act neut dat doric aeolic contr"
+            },
+            {
+              "form": "αἴαντι",
+              "parse": "part sg fut act masc dat doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Αἰακὸς": {
+      "form": "Αἰακὸς",
+      "bare": "aiakos",
+      "beta": "*ai)ako\\s",
+      "analyses": [
+        {
+          "lemmaId": "*ai)ako/s",
+          "lemma": "Αἰακός",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "αἰακός",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Αἰαντόδωρος": {
+      "form": "Αἰαντόδωρος",
+      "bare": "aiantodwros",
+      "beta": "*ai)anto/dwros",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Αἰσχίνου": {
+      "form": "Αἰσχίνου",
+      "bare": "aisxinou",
+      "beta": "*ai)sxi/nou",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Δελφοῖς": {
+      "form": "Δελφοῖς",
+      "bare": "delfois",
+      "beta": "*delfoi=s",
+      "analyses": [
+        {
+          "lemmaId": "*delfoi/",
+          "lemma": "Δελφοί",
+          "definition": "Delphi,",
+          "parses": [
+            {
+              "form": "δελφοῖς",
+              "parse": "noun pl masc dat"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Δελφοὺς": {
+      "form": "Δελφοὺς",
+      "bare": "delfous",
+      "beta": "*delfou\\s",
+      "analyses": [
+        {
+          "lemmaId": "*delfoi/",
+          "lemma": "Δελφοί",
+          "definition": "Delphi,",
+          "parses": [
+            {
+              "form": "δελφούς",
+              "parse": "noun pl masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Δηλίῳ": {
+      "form": "Δηλίῳ",
+      "bare": "dhliw",
+      "beta": "*dhli/w|",
+      "analyses": [
+        {
+          "lemmaId": "*dh/lios",
+          "lemma": "Δήλιος",
+          "definition": "Delian,",
+          "parses": [
+            {
+              "form": "δηλίῳ",
+              "parse": "noun sg masc dat"
+            },
+            {
+              "form": "δηλίῳ",
+              "parse": "adj sg masc dat"
+            },
+            {
+              "form": "δηλίῳ",
+              "parse": "adj sg neut dat"
+            },
+            {
+              "form": "δηλίῳ",
+              "parse": "adj sg fem dat"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Δημοδόκου": {
+      "form": "Δημοδόκου",
+      "bare": "dhmodokou",
+      "beta": "*dhmodo/kou",
+      "analyses": [
+        {
+          "lemmaId": "*dhmo/dokos",
+          "lemma": "Δημόδοκος",
+          "definition": "Demodocus",
+          "parses": [
+            {
+              "form": "δημοδόκου",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Δί": {
+      "form": "Δί",
+      "bare": "di",
+      "beta": "*di/",
+      "analyses": [
+        {
+          "lemmaId": "*zeu/s",
+          "lemma": "Ζεύς",
+          "definition": "dyaús",
+          "parses": [
+            {
+              "form": "δί",
+              "parse": "noun sg masc dat indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Δία": {
+      "form": "Δία",
+      "bare": "dia",
+      "beta": "*di/a",
+      "analyses": [
+        {
+          "lemmaId": "*di/h",
+          "lemma": "Δίη",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "δία",
+              "parse": "noun sg fem voc attic doric aeolic"
+            },
+            {
+              "form": "δία",
+              "parse": "noun sg fem nom attic doric aeolic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*di/on",
+          "lemma": "Δίον",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "δία",
+              "parse": "noun pl neut voc"
+            },
+            {
+              "form": "δία",
+              "parse": "noun pl neut nom"
+            },
+            {
+              "form": "δία",
+              "parse": "noun pl neut acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*di=a",
+          "lemma": "Δῖα",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "δία",
+              "parse": "noun pl neut voc"
+            },
+            {
+              "form": "δία",
+              "parse": "noun pl neut nom"
+            },
+            {
+              "form": "δία",
+              "parse": "noun pl neut acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*zeu/s",
+          "lemma": "Ζεύς",
+          "definition": "dyaús",
+          "parses": [
+            {
+              "form": "δία",
+              "parse": "noun sg masc acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "di=os",
+          "lemma": "δῖος",
+          "definition": "heavenly,",
+          "parses": [
+            {
+              "form": "δία",
+              "parse": "adj sg fem voc epic indeclform"
+            },
+            {
+              "form": "δία",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "δία",
+              "parse": "adj sg fem nom epic indeclform"
+            },
+            {
+              "form": "δία",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "δία",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "δία",
+              "parse": "adj dual fem voc"
+            },
+            {
+              "form": "δία",
+              "parse": "adj dual fem nom"
+            },
+            {
+              "form": "δία",
+              "parse": "adj dual fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "dia/",
+          "lemma": "διά",
+          "definition": "through;",
+          "parses": [
+            {
+              "form": "δία",
+              "parse": "prep indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Διός": {
+      "form": "Διός",
+      "bare": "dios",
+      "beta": "*dio/s",
+      "analyses": [
+        {
+          "lemmaId": "*di=os",
+          "lemma": "Δῖος",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "διός",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*zeu/s",
+          "lemma": "Ζεύς",
+          "definition": "dyaús",
+          "parses": [
+            {
+              "form": "διός",
+              "parse": "noun sg masc gen indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "di=os",
+          "lemma": "δῖος",
+          "definition": "heavenly,",
+          "parses": [
+            {
+              "form": "διός",
+              "parse": "adj sg masc nom"
+            },
+            {
+              "form": "διός",
+              "parse": "adj sg fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Διὸς": {
+      "form": "Διὸς",
+      "bare": "dios",
+      "beta": "*dio\\s",
+      "analyses": [
+        {
+          "lemmaId": "*di=os",
+          "lemma": "Δῖος",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "διός",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*zeu/s",
+          "lemma": "Ζεύς",
+          "definition": "dyaús",
+          "parses": [
+            {
+              "form": "διός",
+              "parse": "noun sg masc gen indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "di=os",
+          "lemma": "δῖος",
+          "definition": "heavenly,",
+          "parses": [
+            {
+              "form": "διός",
+              "parse": "adj sg masc nom"
+            },
+            {
+              "form": "διός",
+              "parse": "adj sg fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἕκτορα": {
+      "form": "Ἕκτορα",
+      "bare": "ektora",
+      "beta": "*e(/ktora",
+      "analyses": [
+        {
+          "lemmaId": "*(/ektwr",
+          "lemma": "Ἕκτωρ",
+          "definition": "Hector",
+          "parses": [
+            {
+              "form": "ἕκτορα",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "e(/ktwr",
+          "lemma": "ἕκτωρ",
+          "definition": "holding fast",
+          "parses": [
+            {
+              "form": "ἕκτορα",
+              "parse": "noun sg masc acc"
+            },
+            {
+              "form": "ἕκτορα",
+              "parse": "noun sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἐπιγένους": {
+      "form": "Ἐπιγένους",
+      "bare": "epigenous",
+      "beta": "*e)pige/nous",
+      "analyses": [
+        {
+          "lemmaId": "e)pigenh/s",
+          "lemma": "ἐπιγενής",
+          "definition": "growing after",
+          "parses": [
+            {
+              "form": "ἐπιγένους",
+              "parse": "adj sg neut gen attic epic doric contr"
+            },
+            {
+              "form": "ἐπιγένους",
+              "parse": "adj sg masc gen attic epic doric contr"
+            },
+            {
+              "form": "ἐπιγένους",
+              "parse": "adj sg fem gen attic epic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Εὔηνον": {
+      "form": "Εὔηνον",
+      "bare": "euhnon",
+      "beta": "*eu)/hnon",
+      "analyses": [
+        {
+          "lemmaId": "*eu)hno/s",
+          "lemma": "Εὐηνός",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "εὔηνον",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Εὔηνος": {
+      "form": "Εὔηνος",
+      "bare": "euhnos",
+      "beta": "*eu)/hnos",
+      "analyses": [
+        {
+          "lemmaId": "*eu)hno/s",
+          "lemma": "Εὐηνός",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "εὔηνος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Γοργίας": {
+      "form": "Γοργίας",
+      "bare": "gorgias",
+      "beta": "*gorgi/as",
+      "analyses": [
+        {
+          "lemmaId": "*gorgia/zw",
+          "lemma": "Γοργιάζω",
+          "definition": "speak like Gorgias",
+          "parses": [
+            {
+              "form": "γοργίας",
+              "parse": "verb 2nd sg fut ind act doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἥραν": {
+      "form": "Ἥραν",
+      "bare": "hran",
+      "beta": "*h(/ran",
+      "analyses": [
+        {
+          "lemmaId": "*(/hra",
+          "lemma": "Ἥρα",
+          "definition": "nine,",
+          "parses": [
+            {
+              "form": "ἥραν",
+              "parse": "noun sg fem acc attic doric ionic aeolic"
+            },
+            {
+              "form": "ἥραν",
+              "parse": "noun pl fem gen doric ionic aeolic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἡσιόδῳ": {
+      "form": "Ἡσιόδῳ",
+      "bare": "hsiodw",
+      "beta": "*h(sio/dw|",
+      "analyses": [
+        {
+          "lemmaId": "*(hsi/odos",
+          "lemma": "Ἡσίοδος",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἡσιόδῳ",
+              "parse": "noun sg masc dat"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἠλεῖος": {
+      "form": "Ἠλεῖος",
+      "bare": "hleios",
+      "beta": "*h)lei=os",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἱππίας": {
+      "form": "Ἱππίας",
+      "bare": "ippias",
+      "beta": "*i(ppi/as",
+      "analyses": [
+        {
+          "lemmaId": "*(ippia/zw",
+          "lemma": "Ἱππιάζω",
+          "definition": "ape Hippias",
+          "parses": [
+            {
+              "form": "ἱππίας",
+              "parse": "verb 2nd sg fut ind act doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "i(/ppios",
+          "lemma": "ἵππιος",
+          "definition": "of a horse",
+          "parses": [
+            {
+              "form": "ἱππίας",
+              "parse": "adj sg fem gen attic doric aeolic"
+            },
+            {
+              "form": "ἱππίας",
+              "parse": "adj pl fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "i(ppi/as",
+          "lemma": "ἱππίας",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἱππίας",
+              "parse": "noun pl masc acc"
+            },
+            {
+              "form": "ἱππίας",
+              "parse": "noun sg masc nom attic epic doric aeolic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ἱππονίκου": {
+      "form": "Ἱππονίκου",
+      "bare": "ipponikou",
+      "beta": "*i(pponi/kou",
+      "analyses": [
+        {
+          "lemmaId": "*(ippo/nikos",
+          "lemma": "Ἱππόνικος",
+          "definition": "victorious in the chariot-race,",
+          "parses": [
+            {
+              "form": "ἱππονίκου",
+              "parse": "noun sg masc gen"
+            },
+            {
+              "form": "ἱππονίκου",
+              "parse": "adj sg neut gen"
+            },
+            {
+              "form": "ἱππονίκου",
+              "parse": "adj sg masc gen"
+            },
+            {
+              "form": "ἱππονίκου",
+              "parse": "adj sg fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Καλλία": {
+      "form": "Καλλία",
+      "bare": "kallia",
+      "beta": "*kalli/a",
+      "analyses": [
+        {
+          "lemmaId": "*kalli/as",
+          "lemma": "Καλλίας",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "καλλία",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun sg masc gen doric aeolic contr"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun sg masc nom epic"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun dual masc nom"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun dual masc voc"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun dual masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kalli/as",
+          "lemma": "καλλίας",
+          "definition": "tame ape",
+          "parses": [
+            {
+              "form": "καλλία",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun sg masc nom epic"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun dual masc voc"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun sg masc gen doric aeolic contr"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun dual masc nom"
+            },
+            {
+              "form": "καλλία",
+              "parse": "noun dual masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kallia/zw",
+          "lemma": "καλλιάζω",
+          "definition": "to be a member of the",
+          "parses": [
+            {
+              "form": "καλλία",
+              "parse": "verb 1st sg fut ind act doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Καλλίᾳ": {
+      "form": "Καλλίᾳ",
+      "bare": "kallia",
+      "beta": "*kalli/a|",
+      "analyses": [
+        {
+          "lemmaId": "*kalli/as",
+          "lemma": "Καλλίας",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "καλλίᾳ",
+              "parse": "noun sg masc dat attic doric aeolic"
+            },
+            {
+              "form": "καλλίᾳ",
+              "parse": "noun pl masc voc"
+            },
+            {
+              "form": "καλλίᾳ",
+              "parse": "noun pl masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kalli/as",
+          "lemma": "καλλίας",
+          "definition": "tame ape",
+          "parses": [
+            {
+              "form": "καλλίᾳ",
+              "parse": "noun sg masc dat attic doric aeolic"
+            },
+            {
+              "form": "καλλίᾳ",
+              "parse": "noun pl masc voc"
+            },
+            {
+              "form": "καλλίᾳ",
+              "parse": "noun pl masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kallia/zw",
+          "lemma": "καλλιάζω",
+          "definition": "to be a member of the",
+          "parses": [
+            {
+              "form": "καλλίᾳ",
+              "parse": "verb 3rd sg fut ind act epic contr"
+            },
+            {
+              "form": "καλλίᾳ",
+              "parse": "verb 2nd sg fut ind mid epic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Κεῖος": {
+      "form": "Κεῖος",
+      "bare": "keios",
+      "beta": "*kei=os",
+      "analyses": [
+        {
+          "lemmaId": "*ke/ws",
+          "lemma": "Κέως",
+          "definition": "Wiener Sitzb.",
+          "parses": [
+            {
+              "form": "κεῖος",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Κηφισιεὺς": {
+      "form": "Κηφισιεὺς",
+      "bare": "khfisieus",
+      "beta": "*khfisieu\\s",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Κλαζομενίου": {
+      "form": "Κλαζομενίου",
+      "bare": "klazomeniou",
+      "beta": "*klazomeni/ou",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Κρίτων": {
+      "form": "Κρίτων",
+      "bare": "kritwn",
+      "beta": "*kri/twn",
+      "analyses": [
+        {
+          "lemmaId": "krith/s",
+          "lemma": "κριτής",
+          "definition": "judge, umpire",
+          "parses": [
+            {
+              "form": "κριτῶν",
+              "parse": "noun pl masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "krito/s",
+          "lemma": "κριτός",
+          "definition": "separated, picked out, chosen",
+          "parses": [
+            {
+              "form": "κριτῶν",
+              "parse": "adj pl masc gen"
+            },
+            {
+              "form": "κριτῶν",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "κριτῶν",
+              "parse": "adj pl fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Κριτόβουλος": {
+      "form": "Κριτόβουλος",
+      "bare": "kritoboulos",
+      "beta": "*krito/boulos",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Κριτοβούλου": {
+      "form": "Κριτοβούλου",
+      "bare": "kritoboulou",
+      "beta": "*kritobou/lou",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Λέοντα": {
+      "form": "Λέοντα",
+      "bare": "leonta",
+      "beta": "*le/onta",
+      "analyses": [
+        {
+          "lemmaId": "le/wn",
+          "lemma": "λέων",
+          "definition": "lion",
+          "parses": [
+            {
+              "form": "λέοντα",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "leonte/h",
+          "lemma": "λεοντέη",
+          "definition": "lion's skin",
+          "parses": [
+            {
+              "form": "λέοντα",
+              "parse": "noun sg fem voc doric contr"
+            },
+            {
+              "form": "λέοντα",
+              "parse": "noun sg fem nom doric contr"
+            },
+            {
+              "form": "λέοντα",
+              "parse": "noun dual fem voc attic doric contr"
+            },
+            {
+              "form": "λέοντα",
+              "parse": "noun dual fem nom attic doric contr"
+            },
+            {
+              "form": "λέοντα",
+              "parse": "noun dual fem acc attic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Λεοντῖνος": {
+      "form": "Λεοντῖνος",
+      "bare": "leontinos",
+      "beta": "*leonti=nos",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Λύκων": {
+      "form": "Λύκων",
+      "bare": "lukwn",
+      "beta": "*lu/kwn",
+      "analyses": [
+        {
+          "lemmaId": "*lu/kwn",
+          "lemma": "Λύκων",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "λύκων",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "λύκων",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "lu/kos",
+          "lemma": "λύκος",
+          "definition": "wolf",
+          "parses": [
+            {
+              "form": "λύκων",
+              "parse": "noun pl masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "luko/w",
+          "lemma": "λυκόω",
+          "definition": "tear like a wolf",
+          "parses": [
+            {
+              "form": "λύκων",
+              "parse": "verb pres inf act doric"
+            },
+            {
+              "form": "λύκων",
+              "parse": "verb 3rd pl imperf ind act doric aeolic poetic contr unaugmented"
+            },
+            {
+              "form": "λύκων",
+              "parse": "verb 1st sg imperf ind act doric aeolic poetic contr unaugmented"
+            },
+            {
+              "form": "λύκων",
+              "parse": "part sg pres act neut nom doric aeolic contr"
+            },
+            {
+              "form": "λύκων",
+              "parse": "part sg pres act neut voc doric aeolic contr"
+            },
+            {
+              "form": "λύκων",
+              "parse": "part sg pres act neut acc doric aeolic contr"
+            },
+            {
+              "form": "λύκων",
+              "parse": "part sg pres act masc voc doric aeolic contr"
+            },
+            {
+              "form": "λύκων",
+              "parse": "part sg pres act masc nom contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Λυσανίας": {
+      "form": "Λυσανίας",
+      "bare": "lusanias",
+      "beta": "*lusani/as",
+      "analyses": [
+        {
+          "lemmaId": "lusani/as",
+          "lemma": "λυσανίας",
+          "definition": "ending sorrow",
+          "parses": [
+            {
+              "form": "λυσανίας",
+              "parse": "noun sg masc nom attic epic doric aeolic"
+            },
+            {
+              "form": "λυσανίας",
+              "parse": "noun pl masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "lusani/hs",
+          "lemma": "λυσανίης",
+          "definition": "ending sorrow",
+          "parses": [
+            {
+              "form": "λυσανίας",
+              "parse": "noun sg masc nom attic epic doric aeolic"
+            },
+            {
+              "form": "λυσανίας",
+              "parse": "noun pl masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μέλητε": {
+      "form": "Μέλητε",
+      "bare": "melhte",
+      "beta": "*me/lhte",
+      "analyses": [
+        {
+          "lemmaId": "me/lw",
+          "lemma": "μέλω",
+          "definition": "to be an object of care",
+          "parses": [
+            {
+              "form": "μέλητε",
+              "parse": "verb 2nd pl pres subj act"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μέλητός": {
+      "form": "Μέλητός",
+      "bare": "melhtos",
+      "beta": "*me/lhto/s",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μέλητον": {
+      "form": "Μέλητον",
+      "bare": "melhton",
+      "beta": "*me/lhton",
+      "analyses": [
+        {
+          "lemmaId": "me/lw",
+          "lemma": "μέλω",
+          "definition": "to be an object of care",
+          "parses": [
+            {
+              "form": "μέλητον",
+              "parse": "verb 3rd dual pres subj act"
+            },
+            {
+              "form": "μέλητον",
+              "parse": "verb 2nd dual pres subj act"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μέλητος": {
+      "form": "Μέλητος",
+      "bare": "melhtos",
+      "beta": "*me/lhtos",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μελήτου": {
+      "form": "Μελήτου",
+      "bare": "melhtou",
+      "beta": "*melh/tou",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μελήτῳ": {
+      "form": "Μελήτῳ",
+      "bare": "melhtw",
+      "beta": "*melh/tw|",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μίνως": {
+      "form": "Μίνως",
+      "bare": "minws",
+      "beta": "*mi/nws",
+      "analyses": [
+        {
+          "lemmaId": "*mi/nws",
+          "lemma": "Μίνως",
+          "definition": "Minos",
+          "parses": [
+            {
+              "form": "μίνως",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "μίνως",
+              "parse": "noun pl masc voc"
+            },
+            {
+              "form": "μίνως",
+              "parse": "noun sg masc nom"
+            },
+            {
+              "form": "μίνως",
+              "parse": "noun pl masc nom"
+            },
+            {
+              "form": "μίνως",
+              "parse": "noun pl masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Μουσαίῳ": {
+      "form": "Μουσαίῳ",
+      "bare": "mousaiw",
+      "beta": "*mousai/w|",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Νικόστρατος": {
+      "form": "Νικόστρατος",
+      "bare": "nikostratos",
+      "beta": "*niko/stratos",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ὁμήρου": {
+      "form": "Ὁμήρου",
+      "bare": "omhrou",
+      "beta": "*o(mh/rou",
+      "analyses": [
+        {
+          "lemmaId": "*(/omhros",
+          "lemma": "Ὅμηρος",
+          "definition": "Homer ;",
+          "parses": [
+            {
+              "form": "ὁμήρου",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/mhros",
+          "lemma": "ὅμηρος",
+          "definition": "pledge, surety, hostage,",
+          "parses": [
+            {
+              "form": "ὁμήρου",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(mhre/w",
+          "lemma": "ὁμηρέω",
+          "definition": "meet,",
+          "parses": [
+            {
+              "form": "ὁμήρου",
+              "parse": "verb 2nd sg pres imperat mp attic contr"
+            },
+            {
+              "form": "ὁμήρου",
+              "parse": "verb 2nd sg imperf ind mp attic poetic contr unaugmented"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ὁμήρῳ": {
+      "form": "Ὁμήρῳ",
+      "bare": "omhrw",
+      "beta": "*o(mh/rw|",
+      "analyses": [
+        {
+          "lemmaId": "*(/omhros",
+          "lemma": "Ὅμηρος",
+          "definition": "Homer ;",
+          "parses": [
+            {
+              "form": "ὁμήρῳ",
+              "parse": "noun sg masc dat"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/mhros",
+          "lemma": "ὅμηρος",
+          "definition": "pledge, surety, hostage,",
+          "parses": [
+            {
+              "form": "ὁμήρῳ",
+              "parse": "noun sg masc dat"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ὀδυσσέα": {
+      "form": "Ὀδυσσέα",
+      "bare": "odussea",
+      "beta": "*o)dusse/a",
+      "analyses": [
+        {
+          "lemmaId": "*)odusseu/s",
+          "lemma": "Ὀδυσσεύς",
+          "definition": "Odysseus,",
+          "parses": [
+            {
+              "form": "ὀδυσσέα",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ὀλυμπίασιν": {
+      "form": "Ὀλυμπίασιν",
+      "bare": "olumpiasin",
+      "beta": "*o)lumpi/asin",
+      "analyses": [
+        {
+          "lemmaId": "*)olumpi/a",
+          "lemma": "Ὀλυμπία",
+          "definition": "Olympia,",
+          "parses": [
+            {
+              "form": "ὀλυμπίασιν",
+              "parse": "adv indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*)olumpia/s",
+          "lemma": "Ὀλυμπιάς",
+          "definition": "at the Olympic games",
+          "parses": [
+            {
+              "form": "ὀλυμπίασιν",
+              "parse": "noun pl fem dat nu_movable"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*)olumpia/s2",
+          "lemma": "Ὀλυμπιάς",
+          "definition": "Olympian,",
+          "parses": [
+            {
+              "form": "ὀλυμπίασιν",
+              "parse": "noun pl fem dat nu_movable"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*o)lumpia/s",
+          "lemma": "Ο᾿λυμπιάς",
+          "definition": "Olympian",
+          "parses": [
+            {
+              "form": "ὀλυμπίασιν",
+              "parse": "noun pl fem dat nu_movable"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ὀρφεῖ": {
+      "form": "Ὀρφεῖ",
+      "bare": "orfei",
+      "beta": "*o)rfei=",
+      "analyses": [
+        {
+          "lemmaId": "*)orfeu/s",
+          "lemma": "Ὀρφεύς",
+          "definition": "Orpheus,",
+          "parses": [
+            {
+              "form": "ὀρφεῖ",
+              "parse": "noun sg masc dat epic poetic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o)rfeu/s",
+          "lemma": "ὀρφεύς",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ὀρφεῖ",
+              "parse": "noun sg masc dat epic poetic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Πάριος": {
+      "form": "Πάριος",
+      "bare": "parios",
+      "beta": "*pa/rios",
+      "analyses": [
+        {
+          "lemmaId": "*pa/rios",
+          "lemma": "Πάριος",
+          "definition": "Parian",
+          "parses": [
+            {
+              "form": "πάριος",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*pa/ros",
+          "lemma": "Πάρος",
+          "definition": "Paros,",
+          "parses": [
+            {
+              "form": "πάριος",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ph=ros2",
+          "lemma": "πῆρος",
+          "definition": "loss of strength, dotage",
+          "parses": [
+            {
+              "form": "πάριος",
+              "parse": "noun sg neut gen doric aeolic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Παλαμήδει": {
+      "form": "Παλαμήδει",
+      "bare": "palamhdei",
+      "beta": "*palamh/dei",
+      "analyses": [
+        {
+          "lemmaId": "*palamh/dhs",
+          "lemma": "Παλαμήδης",
+          "definition": "the Inventor",
+          "parses": [
+            {
+              "form": "παλαμήδει",
+              "parse": "noun sg masc dat epic ionic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Παράλιος": {
+      "form": "Παράλιος",
+      "bare": "paralios",
+      "beta": "*para/lios",
+      "analyses": [
+        {
+          "lemmaId": "para/lios",
+          "lemma": "παράλιος",
+          "definition": "by the sea",
+          "parses": [
+            {
+              "form": "παράλιος",
+              "parse": "adj sg masc nom"
+            },
+            {
+              "form": "παράλιος",
+              "parse": "adj sg fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Πατρόκλῳ": {
+      "form": "Πατρόκλῳ",
+      "bare": "patroklw",
+      "beta": "*patro/klw|",
+      "analyses": [
+        {
+          "lemmaId": "*pa/troklos",
+          "lemma": "Πάτροκλος",
+          "definition": "Patroclus",
+          "parses": [
+            {
+              "form": "πατρόκλῳ",
+              "parse": "noun sg masc dat"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Πλάτων": {
+      "form": "Πλάτων",
+      "bare": "platwn",
+      "beta": "*pla/twn",
+      "analyses": [
+        {
+          "lemmaId": "*pla/twn",
+          "lemma": "Πλάτων",
+          "definition": "broad-shouldered",
+          "parses": [
+            {
+              "form": "πλάτων",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "πλάτων",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "pla/th",
+          "lemma": "πλάτη",
+          "definition": "flat",
+          "parses": [
+            {
+              "form": "πλάτων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "pla/tos",
+          "lemma": "πλάτος",
+          "definition": "breadth, width,",
+          "parses": [
+            {
+              "form": "πλάτων",
+              "parse": "noun pl neut gen attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "pla/tos2",
+          "lemma": "πλάτος",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "πλάτων",
+              "parse": "noun pl neut gen attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "plato/s",
+          "lemma": "πλατός",
+          "definition": "approachable,",
+          "parses": [
+            {
+              "form": "πλάτων",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "πλάτων",
+              "parse": "adj pl masc gen"
+            },
+            {
+              "form": "πλάτων",
+              "parse": "adj pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "platu/s",
+          "lemma": "πλατύς",
+          "definition": "wide, broad,",
+          "parses": [
+            {
+              "form": "πλάτων",
+              "parse": "adj pl neut gen attic epic doric contr"
+            },
+            {
+              "form": "πλάτων",
+              "parse": "adj pl masc gen attic epic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ποτειδαίᾳ": {
+      "form": "Ποτειδαίᾳ",
+      "bare": "poteidaia",
+      "beta": "*poteidai/a|",
+      "analyses": [
+        {
+          "lemmaId": "*potei/daia",
+          "lemma": "Ποτείδαια",
+          "definition": "Potidea,",
+          "parses": [
+            {
+              "form": "ποτειδαίᾳ",
+              "parse": "noun sg fem dat attic doric aeolic"
+            },
+            {
+              "form": "ποτειδαίᾳ",
+              "parse": "noun pl fem voc"
+            },
+            {
+              "form": "ποτειδαίᾳ",
+              "parse": "noun pl fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Πρόδικος": {
+      "form": "Πρόδικος",
+      "bare": "prodikos",
+      "beta": "*pro/dikos",
+      "analyses": [
+        {
+          "lemmaId": "pro/dikos",
+          "lemma": "πρόδικος",
+          "definition": "judged first,",
+          "parses": [
+            {
+              "form": "πρόδικος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Πυθία": {
+      "form": "Πυθία",
+      "bare": "puqia",
+      "beta": "*puqi/a",
+      "analyses": [
+        {
+          "lemmaId": "*pu/qia",
+          "lemma": "Πύθια",
+          "definition": "the Pythian games",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut voc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut nom"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*pu/qia2",
+          "lemma": "Πύθια2",
+          "definition": "the Pythian games",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut voc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut nom"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*pu/qion",
+          "lemma": "Πύθιον",
+          "definition": "temple of the Pythian Apollo",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut voc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut nom"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun pl neut acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*pu/qios",
+          "lemma": "Πύθιος",
+          "definition": "his temple",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "adj sg fem nom attic doric aeolic"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj sg fem voc attic doric aeolic"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj dual fem voc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj dual fem acc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "adj dual fem nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*puqi/a",
+          "lemma": "Πυθία",
+          "definition": "Pythia, priestess of Pythian Apollo",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "noun sg fem voc attic doric aeolic"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun sg fem nom attic doric aeolic"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun dual fem voc"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun dual fem nom"
+            },
+            {
+              "form": "πυθία",
+              "parse": "noun dual fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*puqia/s",
+          "lemma": "Πυθιάς",
+          "definition": "to Apollo",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "noun sg fem voc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "puqia/zw",
+          "lemma": "πυθιάζω",
+          "definition": "to be inspired by Apollo, prophesy",
+          "parses": [
+            {
+              "form": "πυθία",
+              "parse": "verb 1st sg fut ind act doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Θέτιδος": {
+      "form": "Θέτιδος",
+      "bare": "qetidos",
+      "beta": "*qe/tidos",
+      "analyses": [
+        {
+          "lemmaId": "*qe/tis",
+          "lemma": "Θέτις",
+          "definition": "Thetis",
+          "parses": [
+            {
+              "form": "θέτιδος",
+              "parse": "noun sg fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Θεάγης": {
+      "form": "Θεάγης",
+      "bare": "qeaghs",
+      "beta": "*qea/ghs",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Θεόδοτος": {
+      "form": "Θεόδοτος",
+      "bare": "qeodotos",
+      "beta": "*qeo/dotos",
+      "analyses": [
+        {
+          "lemmaId": "qeo/dotos",
+          "lemma": "θεόδοτος",
+          "definition": "remedy for coughs",
+          "parses": [
+            {
+              "form": "θεόδοτος",
+              "parse": "adj sg masc nom"
+            },
+            {
+              "form": "θεόδοτος",
+              "parse": "adj sg fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Θεοδότου": {
+      "form": "Θεοδότου",
+      "bare": "qeodotou",
+      "beta": "*qeodo/tou",
+      "analyses": [
+        {
+          "lemmaId": "qeo/dotos",
+          "lemma": "θεόδοτος",
+          "definition": "remedy for coughs",
+          "parses": [
+            {
+              "form": "θεοδότου",
+              "parse": "adj sg masc gen"
+            },
+            {
+              "form": "θεοδότου",
+              "parse": "adj sg neut gen"
+            },
+            {
+              "form": "θεοδότου",
+              "parse": "adj sg fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Θεοζοτίδου": {
+      "form": "Θεοζοτίδου",
+      "bare": "qeozotidou",
+      "beta": "*qeozoti/dou",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Ῥαδάμανθυς": {
+      "form": "Ῥαδάμανθυς",
+      "bare": "radamanqus",
+      "beta": "*r(ada/manqus",
+      "analyses": [
+        {
+          "lemmaId": "*(rada/manqus",
+          "lemma": "Ῥαδάμανθυς",
+          "definition": "Rhadamanthys",
+          "parses": [
+            {
+              "form": "ῥαδάμανθυς",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σαλαμίνιον": {
+      "form": "Σαλαμίνιον",
+      "bare": "salaminion",
+      "beta": "*salami/nion",
+      "analyses": [
+        {
+          "lemmaId": "*salami/nios",
+          "lemma": "Σαλαμίνιος",
+          "definition": "Salaminian, of",
+          "parses": [
+            {
+              "form": "σαλαμίνιον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "σαλαμίνιον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "σαλαμίνιον",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "σαλαμίνιον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "σαλαμίνιον",
+              "parse": "adj sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σαλαμῖνα": {
+      "form": "Σαλαμῖνα",
+      "bare": "salamina",
+      "beta": "*salami=na",
+      "analyses": [
+        {
+          "lemmaId": "*salami/s",
+          "lemma": "Σαλαμίς",
+          "definition": "Salamis",
+          "parses": [
+            {
+              "form": "σαλαμῖνα",
+              "parse": "noun sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σαλαμῖνος": {
+      "form": "Σαλαμῖνος",
+      "bare": "salaminos",
+      "beta": "*salami=nos",
+      "analyses": [
+        {
+          "lemmaId": "*salami/s",
+          "lemma": "Σαλαμίς",
+          "definition": "Salamis",
+          "parses": [
+            {
+              "form": "σαλαμῖνος",
+              "parse": "noun sg fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σφήττιος": {
+      "form": "Σφήττιος",
+      "bare": "sfhttios",
+      "beta": "*sfh/ttios",
+      "analyses": [
+        {
+          "lemmaId": "*sfh/ttios",
+          "lemma": "Σφήττιος",
+          "definition": "a Sphettian",
+          "parses": [
+            {
+              "form": "σφήττιος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σίσυφον": {
+      "form": "Σίσυφον",
+      "bare": "sisufon",
+      "beta": "*si/sufon",
+      "analyses": [
+        {
+          "lemmaId": "*si/sufos",
+          "lemma": "Σίσυφος",
+          "definition": "temple of S.",
+          "parses": [
+            {
+              "form": "σίσυφον",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σώκρατες": {
+      "form": "Σώκρατες",
+      "bare": "swkrates",
+      "beta": "*sw/krates",
+      "analyses": [
+        {
+          "lemmaId": "*swkra/ths",
+          "lemma": "Σωκράτης",
+          "definition": "dear little Socrates!",
+          "parses": [
+            {
+              "form": "σώκρατες",
+              "parse": "noun sg masc voc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σωκράτη": {
+      "form": "Σωκράτη",
+      "bare": "swkrath",
+      "beta": "*swkra/th",
+      "analyses": [
+        {
+          "lemmaId": "*swkra/ths",
+          "lemma": "Σωκράτης",
+          "definition": "dear little Socrates!",
+          "parses": [
+            {
+              "form": "σωκράτη",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "σωκράτη",
+              "parse": "noun sg masc acc attic epic doric contr"
+            },
+            {
+              "form": "σωκράτη",
+              "parse": "noun dual masc voc doric aeolic contr"
+            },
+            {
+              "form": "σωκράτη",
+              "parse": "noun dual masc acc doric aeolic contr"
+            },
+            {
+              "form": "σωκράτη",
+              "parse": "noun dual masc nom doric aeolic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*swkrate/w",
+          "lemma": "Σωκρατέω",
+          "definition": "do like Socrates, 'Socratize",
+          "parses": [
+            {
+              "form": "σωκράτη",
+              "parse": "verb 3rd sg imperf ind act doric aeolic contr"
+            },
+            {
+              "form": "σωκράτη",
+              "parse": "verb 2nd sg pres imperat act doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σωκράτης": {
+      "form": "Σωκράτης",
+      "bare": "swkraths",
+      "beta": "*swkra/ths",
+      "analyses": [
+        {
+          "lemmaId": "*swkra/ths",
+          "lemma": "Σωκράτης",
+          "definition": "dear little Socrates!",
+          "parses": [
+            {
+              "form": "σωκράτης",
+              "parse": "noun pl masc voc doric aeolic contr"
+            },
+            {
+              "form": "σωκράτης",
+              "parse": "noun sg masc nom"
+            },
+            {
+              "form": "σωκράτης",
+              "parse": "noun pl masc nom doric aeolic contr"
+            },
+            {
+              "form": "σωκράτης",
+              "parse": "noun pl masc acc attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "*swkrate/w",
+          "lemma": "Σωκρατέω",
+          "definition": "do like Socrates, 'Socratize",
+          "parses": [
+            {
+              "form": "σωκράτης",
+              "parse": "verb 2nd sg pres ind act doric contr"
+            },
+            {
+              "form": "σωκράτης",
+              "parse": "verb 2nd sg imperf ind act doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Σωκράτους": {
+      "form": "Σωκράτους",
+      "bare": "swkratous",
+      "beta": "*swkra/tous",
+      "analyses": [
+        {
+          "lemmaId": "*swkra/ths",
+          "lemma": "Σωκράτης",
+          "definition": "dear little Socrates!",
+          "parses": [
+            {
+              "form": "σωκράτους",
+              "parse": "noun sg masc gen attic epic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Τελαμῶνος": {
+      "form": "Τελαμῶνος",
+      "bare": "telamwnos",
+      "beta": "*telamw=nos",
+      "analyses": [
+        {
+          "lemmaId": "*telamw/n",
+          "lemma": "Τελαμών",
+          "definition": "Telamon",
+          "parses": [
+            {
+              "form": "τελαμῶνος",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "telamw/n",
+          "lemma": "τελαμών",
+          "definition": "broad strap",
+          "parses": [
+            {
+              "form": "τελαμῶνος",
+              "parse": "noun sg fem gen"
+            },
+            {
+              "form": "τελαμῶνος",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Τριπτόλεμος": {
+      "form": "Τριπτόλεμος",
+      "bare": "triptolemos",
+      "beta": "*tripto/lemos",
+      "analyses": [
+        {
+          "lemmaId": "*tripto/lemos",
+          "lemma": "Τριπτόλεμος",
+          "definition": "Triptolemus,",
+          "parses": [
+            {
+              "form": "τριπτόλεμος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Τροίαν": {
+      "form": "Τροίαν",
+      "bare": "troian",
+      "beta": "*troi/an",
+      "analyses": [
+        {
+          "lemmaId": "*troi/a",
+          "lemma": "Τροία",
+          "definition": "Troy,",
+          "parses": [
+            {
+              "form": "τροίαν",
+              "parse": "noun sg fem acc attic doric aeolic"
+            },
+            {
+              "form": "τροίαν",
+              "parse": "noun pl fem gen doric aeolic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Τροίᾳ": {
+      "form": "Τροίᾳ",
+      "bare": "troia",
+      "beta": "*troi/a|",
+      "analyses": [
+        {
+          "lemmaId": "*troi/a",
+          "lemma": "Τροία",
+          "definition": "Troy,",
+          "parses": [
+            {
+              "form": "τροίᾳ",
+              "parse": "noun sg fem dat attic doric aeolic"
+            },
+            {
+              "form": "τροίᾳ",
+              "parse": "noun pl fem voc"
+            },
+            {
+              "form": "τροίᾳ",
+              "parse": "noun pl fem nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Χαιρεφῶν": {
+      "form": "Χαιρεφῶν",
+      "bare": "xairefwn",
+      "beta": "*xairefw=n",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "Χαιρεφῶντα": {
+      "form": "Χαιρεφῶντα",
+      "bare": "xairefwnta",
+      "beta": "*xairefw=nta",
+      "analyses": [],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅ": {
+      "form": "ἅ",
+      "bare": "a",
+      "beta": "a(/",
+      "analyses": [
+        {
+          "lemmaId": "o(/s",
+          "lemma": "ὅς",
+          "definition": "yas, yā, yad,",
+          "parses": [
+            {
+              "form": "ἅ",
+              "parse": "pron sg fem nom doric aeolic indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut acc indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/s2",
+          "lemma": "ὅς",
+          "definition": "his, her,",
+          "parses": [
+            {
+              "form": "ἅ",
+              "parse": "pron sg fem nom doric aeolic indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut acc indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(",
+          "lemma": "ὁ",
+          "definition": "the following",
+          "parses": [
+            {
+              "form": "ἅ",
+              "parse": "article sg fem nom doric proclitic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅμα": {
+      "form": "ἅμα",
+      "bare": "ama",
+      "beta": "a(/ma",
+      "analyses": [
+        {
+          "lemmaId": "a(/ma",
+          "lemma": "ἅμα",
+          "definition": "at once, at the same time,",
+          "parses": [
+            {
+              "form": "ἅμα",
+              "parse": "adv indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a(/ma2",
+          "lemma": "ἅμα2",
+          "definition": "at the same time",
+          "parses": [
+            {
+              "form": "ἅμα",
+              "parse": "adv indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a(mo/s",
+          "lemma": "ἁμός",
+          "definition": "our, ours",
+          "parses": [
+            {
+              "form": "ἅμα",
+              "parse": "adj sg fem nom doric aeolic"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj sg fem voc doric aeolic"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj dual fem voc"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj dual fem nom"
+            },
+            {
+              "form": "ἅμα",
+              "parse": "adj dual fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅπαντα": {
+      "form": "ἅπαντα",
+      "bare": "apanta",
+      "beta": "a(/panta",
+      "analyses": [
+        {
+          "lemmaId": "a(/pas",
+          "lemma": "ἅπας",
+          "definition": "sṃ-,",
+          "parses": [
+            {
+              "form": "ἅπαντα",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἅπαντα",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἅπαντα",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἅπαντα",
+              "parse": "adj pl neut acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅπαντας": {
+      "form": "ἅπαντας",
+      "bare": "apantas",
+      "beta": "a(/pantas",
+      "analyses": [
+        {
+          "lemmaId": "a(/pas",
+          "lemma": "ἅπας",
+          "definition": "sṃ-,",
+          "parses": [
+            {
+              "form": "ἅπαντας",
+              "parse": "adj pl masc acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅπαντες": {
+      "form": "ἅπαντες",
+      "bare": "apantes",
+      "beta": "a(/pantes",
+      "analyses": [
+        {
+          "lemmaId": "a(/pas",
+          "lemma": "ἅπας",
+          "definition": "sṃ-,",
+          "parses": [
+            {
+              "form": "ἅπαντες",
+              "parse": "adj pl masc nom"
+            },
+            {
+              "form": "ἅπαντες",
+              "parse": "adj pl masc voc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅπερ": {
+      "form": "ἅπερ",
+      "bare": "aper",
+      "beta": "a(/per",
+      "analyses": [
+        {
+          "lemmaId": "o(/s",
+          "lemma": "ὅς",
+          "definition": "yas, yā, yad,",
+          "parses": [
+            {
+              "form": "ἅπερ",
+              "parse": "pron sg fem nom doric aeolic indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron pl neut nom indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron pl neut acc indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron dual fem nom indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron dual fem acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/s2",
+          "lemma": "ὅς",
+          "definition": "his, her,",
+          "parses": [
+            {
+              "form": "ἅπερ",
+              "parse": "pron sg fem nom doric aeolic indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron pl neut nom indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron pl neut acc indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron dual fem nom indeclform"
+            },
+            {
+              "form": "ἅπερ",
+              "parse": "pron dual fem acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(",
+          "lemma": "ὁ",
+          "definition": "the following",
+          "parses": [
+            {
+              "form": "ἅπερ",
+              "parse": "article sg fem nom doric proclitic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἅτε": {
+      "form": "ἅτε",
+      "bare": "ate",
+      "beta": "a(/te",
+      "analyses": [
+        {
+          "lemmaId": "a(/te",
+          "lemma": "ἅτε",
+          "definition": "just as, as if, so as,",
+          "parses": [
+            {
+              "form": "ἅτε",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἃ": {
+      "form": "ἃ",
+      "bare": "a",
+      "beta": "a(\\",
+      "analyses": [
+        {
+          "lemmaId": "o(/s",
+          "lemma": "ὅς",
+          "definition": "yas, yā, yad,",
+          "parses": [
+            {
+              "form": "ἅ",
+              "parse": "pron sg fem nom doric aeolic indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut acc indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/s2",
+          "lemma": "ὅς",
+          "definition": "his, her,",
+          "parses": [
+            {
+              "form": "ἅ",
+              "parse": "pron sg fem nom doric aeolic indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron pl neut acc indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem nom indeclform"
+            },
+            {
+              "form": "ἅ",
+              "parse": "pron dual fem acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(",
+          "lemma": "ὁ",
+          "definition": "the following",
+          "parses": [
+            {
+              "form": "ἅ",
+              "parse": "article sg fem nom doric proclitic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἁλῷς": {
+      "form": "ἁλῷς",
+      "bare": "alws",
+      "beta": "a(lw=|s",
+      "analyses": [
+        {
+          "lemmaId": "a(/lws",
+          "lemma": "ἅλως",
+          "definition": "threshing-floor,",
+          "parses": [
+            {
+              "form": "ἁλῷς",
+              "parse": "noun pl fem dat attic epic ionic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a(li/skomai",
+          "lemma": "ἁλίσκομαι",
+          "definition": "to be taken, conquered, fall into an enemy's hand",
+          "parses": [
+            {
+              "form": "ἁλῷς",
+              "parse": "verb 2nd sg aor subj act contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἁμάρτημα": {
+      "form": "ἁμάρτημα",
+      "bare": "amarthma",
+      "beta": "a(ma/rthma",
+      "analyses": [
+        {
+          "lemmaId": "a(ma/rthma",
+          "lemma": "ἁμάρτημα",
+          "definition": "failure, fault,",
+          "parses": [
+            {
+              "form": "ἁμάρτημα",
+              "parse": "noun sg neut voc"
+            },
+            {
+              "form": "ἁμάρτημα",
+              "parse": "noun sg neut nom"
+            },
+            {
+              "form": "ἁμάρτημα",
+              "parse": "noun sg neut acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἁμαρτημάτων": {
+      "form": "ἁμαρτημάτων",
+      "bare": "amarthmatwn",
+      "beta": "a(marthma/twn",
+      "analyses": [
+        {
+          "lemmaId": "a(ma/rthma",
+          "lemma": "ἁμάρτημα",
+          "definition": "failure, fault,",
+          "parses": [
+            {
+              "form": "ἁμαρτημάτων",
+              "parse": "noun pl neut gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἁπάντων": {
+      "form": "ἁπάντων",
+      "bare": "apantwn",
+      "beta": "a(pa/ntwn",
+      "analyses": [
+        {
+          "lemmaId": "a(/pas",
+          "lemma": "ἅπας",
+          "definition": "sṃ-,",
+          "parses": [
+            {
+              "form": "ἁπάντων",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "ἁπάντων",
+              "parse": "adj pl masc gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἁθρόους": {
+      "form": "ἁθρόους",
+      "bare": "aqroous",
+      "beta": "a(qro/ous",
+      "analyses": [
+        {
+          "lemmaId": "a)qro/os",
+          "lemma": "ἀθρόος",
+          "definition": "in crowds, heaps",
+          "parses": [
+            {
+              "form": "ἁθρόους",
+              "parse": "adj pl masc acc attic"
+            },
+            {
+              "form": "ἁθρόους",
+              "parse": "adj pl fem acc attic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄξια": {
+      "form": "ἄξια",
+      "bare": "acia",
+      "beta": "a)/cia",
+      "analyses": [
+        {
+          "lemmaId": "a)/cios",
+          "lemma": "ἄξιος",
+          "definition": "counterbalancing,",
+          "parses": [
+            {
+              "form": "ἄξια",
+              "parse": "adj sg fem voc attic doric aeolic"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj sg fem nom attic doric aeolic"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj dual fem voc"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj dual fem nom"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "adj dual fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ci/a",
+          "lemma": "ἀξία",
+          "definition": "worth, value,",
+          "parses": [
+            {
+              "form": "ἄξια",
+              "parse": "noun sg fem voc attic doric aeolic"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "noun sg fem nom attic doric aeolic"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "noun dual fem voc"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "noun dual fem nom"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "noun dual fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)cia/w",
+          "lemma": "ἀξιάω",
+          "definition": "Hoffmann Inscr.",
+          "parses": [
+            {
+              "form": "ἄξια",
+              "parse": "verb 3rd sg imperf ind act homeric ionic contr unaugmented"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "verb 1st sg pres subj act doric aeolic contr"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "verb 2nd sg pres imperat act contr"
+            },
+            {
+              "form": "ἄξια",
+              "parse": "verb 1st sg pres ind act doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄξιός": {
+      "form": "ἄξιός",
+      "bare": "acios",
+      "beta": "a)/cio/s",
+      "analyses": [
+        {
+          "lemmaId": "*)acio/s",
+          "lemma": "Ἀξιός",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄξιος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/cios",
+          "lemma": "ἄξιος",
+          "definition": "counterbalancing,",
+          "parses": [
+            {
+              "form": "ἄξιος",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄξιοι": {
+      "form": "ἄξιοι",
+      "bare": "acioi",
+      "beta": "a)/cioi",
+      "analyses": [
+        {
+          "lemmaId": "a)/cios",
+          "lemma": "ἄξιος",
+          "definition": "counterbalancing,",
+          "parses": [
+            {
+              "form": "ἄξιοι",
+              "parse": "adj pl masc voc"
+            },
+            {
+              "form": "ἄξιοι",
+              "parse": "adj pl masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gnumi",
+          "lemma": "ἄγνυμι",
+          "definition": "break, shiver",
+          "parses": [
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 3rd sg fut opt act doric"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gw",
+          "lemma": "ἄγω",
+          "definition": "lead, carry, fetch, bring",
+          "parses": [
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 3rd sg fut opt act doric"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)cio/w",
+          "lemma": "ἀξιόω",
+          "definition": "think, deem worthy,",
+          "parses": [
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 3rd sg pres opt act contr"
+            },
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 3rd sg pres subj act contr"
+            },
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 3rd sg pres ind act contr"
+            },
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 2nd sg pres subj mp contr"
+            },
+            {
+              "form": "ἄξιοι",
+              "parse": "verb 2nd sg pres ind mp contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄξιον": {
+      "form": "ἄξιον",
+      "bare": "acion",
+      "beta": "a)/cion",
+      "analyses": [
+        {
+          "lemmaId": "*)acio/s",
+          "lemma": "Ἀξιός",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄξιον",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/cios",
+          "lemma": "ἄξιος",
+          "definition": "counterbalancing,",
+          "parses": [
+            {
+              "form": "ἄξιον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "adj sg neut acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gnumi",
+          "lemma": "ἄγνυμι",
+          "definition": "break, shiver",
+          "parses": [
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act neut voc doric"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act neut nom doric"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act neut acc doric"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act masc voc doric"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gw",
+          "lemma": "ἄγω",
+          "definition": "lead, carry, fetch, bring",
+          "parses": [
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act neut voc doric"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act neut acc doric"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act neut nom doric"
+            },
+            {
+              "form": "ἄξιον",
+              "parse": "part sg fut act masc voc doric"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄξιος": {
+      "form": "ἄξιος",
+      "bare": "acios",
+      "beta": "a)/cios",
+      "analyses": [
+        {
+          "lemmaId": "*)acio/s",
+          "lemma": "Ἀξιός",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄξιος",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/cios",
+          "lemma": "ἄξιος",
+          "definition": "counterbalancing,",
+          "parses": [
+            {
+              "form": "ἄξιος",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄδηλον": {
+      "form": "ἄδηλον",
+      "bare": "adhlon",
+      "beta": "a)/dhlon",
+      "analyses": [
+        {
+          "lemmaId": "a)/dhlos",
+          "lemma": "ἄδηλος",
+          "definition": "unseen, invisible",
+          "parses": [
+            {
+              "form": "ἄδηλον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἄδηλον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἄδηλον",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἄδηλον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἄδηλον",
+              "parse": "adj sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄδικα": {
+      "form": "ἄδικα",
+      "bare": "adika",
+      "beta": "a)/dika",
+      "analyses": [
+        {
+          "lemmaId": "a)/dikos",
+          "lemma": "ἄδικος",
+          "definition": "wrongdoing, unrighteous, unjust",
+          "parses": [
+            {
+              "form": "ἄδικα",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἄδικα",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἄδικα",
+              "parse": "adj pl neut acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄδικόν": {
+      "form": "ἄδικόν",
+      "bare": "adikon",
+      "beta": "a)/diko/n",
+      "analyses": [
+        {
+          "lemmaId": "a)/dikos",
+          "lemma": "ἄδικος",
+          "definition": "wrongdoing, unrighteous, unjust",
+          "parses": [
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄδικον": {
+      "form": "ἄδικον",
+      "bare": "adikon",
+      "beta": "a)/dikon",
+      "analyses": [
+        {
+          "lemmaId": "a)/dikos",
+          "lemma": "ἄδικος",
+          "definition": "wrongdoing, unrighteous, unjust",
+          "parses": [
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἄδικον",
+              "parse": "adj sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄγειν": {
+      "form": "ἄγειν",
+      "bare": "agein",
+      "beta": "a)/gein",
+      "analyses": [
+        {
+          "lemmaId": "a)/gw",
+          "lemma": "ἄγω",
+          "definition": "lead, carry, fetch, bring",
+          "parses": [
+            {
+              "form": "ἄγειν",
+              "parse": "verb pres inf act attic epic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ga/w",
+          "lemma": "ἀγάω",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄγειν",
+              "parse": "verb pres inf act attic epic doric ionic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄγοντος": {
+      "form": "ἄγοντος",
+      "bare": "agontos",
+      "beta": "a)/gontos",
+      "analyses": [
+        {
+          "lemmaId": "a)/gw",
+          "lemma": "ἄγω",
+          "definition": "lead, carry, fetch, bring",
+          "parses": [
+            {
+              "form": "ἄγοντος",
+              "parse": "part sg pres act neut gen"
+            },
+            {
+              "form": "ἄγοντος",
+              "parse": "part sg pres act masc gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄγουσι": {
+      "form": "ἄγουσι",
+      "bare": "agousi",
+      "beta": "a)/gousi",
+      "analyses": [
+        {
+          "lemmaId": "a)/gnumi",
+          "lemma": "ἄγνυμι",
+          "definition": "break, shiver",
+          "parses": [
+            {
+              "form": "ἄγουσι",
+              "parse": "verb 3rd pl aor subj pass epic contr short_subj"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gw",
+          "lemma": "ἄγω",
+          "definition": "lead, carry, fetch, bring",
+          "parses": [
+            {
+              "form": "ἄγουσι",
+              "parse": "part pl pres act neut dat attic epic doric ionic"
+            },
+            {
+              "form": "ἄγουσι",
+              "parse": "verb 3rd pl pres ind act attic epic doric ionic aeolic"
+            },
+            {
+              "form": "ἄγουσι",
+              "parse": "part pl pres act masc dat attic epic doric ionic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ga/w",
+          "lemma": "ἀγάω",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄγουσι",
+              "parse": "verb 3rd pl pres ind act attic epic doric ionic aeolic contr"
+            },
+            {
+              "form": "ἄγουσι",
+              "parse": "part pl pres act neut dat attic epic doric ionic contr"
+            },
+            {
+              "form": "ἄγουσι",
+              "parse": "part pl pres act masc dat attic epic doric ionic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄγων": {
+      "form": "ἄγων",
+      "bare": "agwn",
+      "beta": "a)/gwn",
+      "analyses": [
+        {
+          "lemmaId": "a)/gh",
+          "lemma": "ἄγη",
+          "definition": "wonder, amazement,",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gh2",
+          "lemma": "ἄγη2",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gos",
+          "lemma": "ἄγος",
+          "definition": "any matter of religious awe",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl neut gen attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gos2",
+          "lemma": "ἄγος",
+          "definition": "fragment",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl neut gen attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/gw",
+          "lemma": "ἄγω",
+          "definition": "lead, carry, fetch, bring",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "part sg pres act masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ga/w",
+          "lemma": "ἀγάω",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "verb 1st sg imperf ind act homeric ionic contr unaugmented"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "verb 3rd pl imperf ind act doric aeolic contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg pres act neut voc contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg pres act neut nom contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg pres act neut acc contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg pres act masc voc contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg pres act masc nom attic epic ionic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ga/zw",
+          "lemma": "ἀγάζω",
+          "definition": "exalt overmuch,",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "part sg fut act neut voc contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg fut act neut nom contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg fut act masc voc contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg fut act neut acc contr"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "part sg fut act masc nom attic epic ionic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)gh/",
+          "lemma": "ἀγή",
+          "definition": "breakage:",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)gh/2",
+          "lemma": "ἀγή2",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)go/s",
+          "lemma": "ἀγός",
+          "definition": "leader, chief",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun pl masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)gw/n",
+          "lemma": "ἀγών",
+          "definition": "gathering, assembly",
+          "parses": [
+            {
+              "form": "ἄγων",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "ἄγων",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄκοντα": {
+      "form": "ἄκοντα",
+      "bare": "akonta",
+      "beta": "a)/konta",
+      "analyses": [
+        {
+          "lemmaId": "a)/kwn",
+          "lemma": "ἄκων",
+          "definition": "javelin, dart",
+          "parses": [
+            {
+              "form": "ἄκοντα",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/kwn2",
+          "lemma": "ἄκων2",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄκοντα",
+              "parse": "noun sg masc acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)e/kwn",
+          "lemma": "ἀέκων",
+          "definition": "involuntary, constrained",
+          "parses": [
+            {
+              "form": "ἄκοντα",
+              "parse": "adj sg masc acc attic contr"
+            },
+            {
+              "form": "ἄκοντα",
+              "parse": "adj pl neut voc attic contr"
+            },
+            {
+              "form": "ἄκοντα",
+              "parse": "adj pl neut nom attic contr"
+            },
+            {
+              "form": "ἄκοντα",
+              "parse": "adj pl neut acc attic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄκων": {
+      "form": "ἄκων",
+      "bare": "akwn",
+      "beta": "a)/kwn",
+      "analyses": [
+        {
+          "lemmaId": "a)/kos",
+          "lemma": "ἄκος",
+          "definition": "cure, remedy",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "noun pl neut gen attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/kwn",
+          "lemma": "ἄκων",
+          "definition": "javelin, dart",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/kwn2",
+          "lemma": "ἄκων2",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)e/kwn",
+          "lemma": "ἀέκων",
+          "definition": "involuntary, constrained",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "adj sg masc nom attic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ke/w",
+          "lemma": "ἀκέω",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "part sg pres act masc nom attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)ke/w2",
+          "lemma": "ἀκέω2",
+          "definition": "to be silent",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "part sg pres act masc nom attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)kh/",
+          "lemma": "ἀκή",
+          "definition": "point",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)kh/2",
+          "lemma": "ἀκή2",
+          "definition": "silence",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)kh/3",
+          "lemma": "ἀκή3",
+          "definition": "healing",
+          "parses": [
+            {
+              "form": "ἄκων",
+              "parse": "noun pl fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλ": {
+      "form": "ἄλλ",
+      "bare": "all",
+      "beta": "a)/ll",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg fem dat doric aeolic poetic"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl fem voc poetic"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl fem nom poetic"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg fem dat doric aeolic poetic"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl fem voc poetic"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl fem nom poetic"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg fem dat doric aeolic poetic"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl fem voc poetic"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl fem nom poetic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj sg fem dat doric aeolic poetic"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl fem voc poetic"
+            },
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adj pl fem nom poetic"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj sg fem dat doric aeolic poetic"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl fem voc poetic"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl fem nom poetic"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg masc voc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj sg fem dat doric aeolic poetic"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl fem voc poetic"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adj pl fem nom poetic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)lla/",
+          "lemma": "ἀλλά",
+          "definition": "otheruise",
+          "parses": [
+            {
+              "form": "ἄλλ᾽",
+              "parse": "adv indeclform"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adv indeclform"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "adv indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)nala/zomai",
+          "lemma": "ἀναλάζομαι",
+          "definition": "take again,",
+          "parses": [
+            {
+              "form": "ἄλλ᾽",
+              "parse": "verb 2nd sg fut ind mp epic poetic contr apocope"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "verb 2nd sg fut ind mp epic poetic contr apocope"
+            },
+            {
+              "form": "ἀλλ᾽",
+              "parse": "verb 2nd sg fut ind mp epic poetic contr apocope"
+            }
+          ]
+        },
+        {
+          "lemmaId": "e)llo/s",
+          "lemma": "ἐλλός",
+          "definition": "young deer",
+          "parses": [
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἁλλ᾽",
+              "parse": "adj pl neut acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλα": {
+      "form": "ἄλλα",
+      "bare": "alla",
+      "beta": "a)/lla",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλα",
+              "parse": "adj sg fem voc doric aeolic"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj sg fem nom doric aeolic"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj dual fem voc"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj dual fem nom"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj dual fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλα",
+              "parse": "adj sg fem voc doric aeolic"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj sg fem nom doric aeolic"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj pl neut voc"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj pl neut nom"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj pl neut acc"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj dual fem voc"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj dual fem nom"
+            },
+            {
+              "form": "ἄλλα",
+              "parse": "adj dual fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)lla/",
+          "lemma": "ἀλλά",
+          "definition": "otheruise",
+          "parses": [
+            {
+              "form": "ἄλλα",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλαι": {
+      "form": "ἄλλαι",
+      "bare": "allai",
+      "beta": "a)/llai",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλαι",
+              "parse": "adj sg fem dat doric aeolic"
+            },
+            {
+              "form": "ἄλλαι",
+              "parse": "adj pl fem voc"
+            },
+            {
+              "form": "ἄλλαι",
+              "parse": "adj pl fem nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλαι",
+              "parse": "adj sg fem dat doric aeolic"
+            },
+            {
+              "form": "ἄλλαι",
+              "parse": "adj pl fem voc"
+            },
+            {
+              "form": "ἄλλαι",
+              "parse": "adj pl fem nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)nala/zomai",
+          "lemma": "ἀναλάζομαι",
+          "definition": "take again,",
+          "parses": [
+            {
+              "form": "ἄλλαι",
+              "parse": "verb 2nd sg fut ind mp epic poetic contr apocope"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλαις": {
+      "form": "ἄλλαις",
+      "bare": "allais",
+      "beta": "a)/llais",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλαις",
+              "parse": "adj pl fem dat"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλαις",
+              "parse": "adj pl fem dat"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλας": {
+      "form": "ἄλλας",
+      "bare": "allas",
+      "beta": "a)/llas",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλας",
+              "parse": "adj sg fem gen doric aeolic"
+            },
+            {
+              "form": "ἄλλας",
+              "parse": "adj pl fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλας",
+              "parse": "adj sg fem gen doric aeolic"
+            },
+            {
+              "form": "ἄλλας",
+              "parse": "adj pl fem acc"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)lla=s",
+          "lemma": "ἀλλᾶς",
+          "definition": "force-meat, sausage",
+          "parses": [
+            {
+              "form": "ἄλλας",
+              "parse": "noun sg masc voc"
+            },
+            {
+              "form": "ἄλλας",
+              "parse": "noun sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλη": {
+      "form": "ἄλλη",
+      "bare": "allh",
+      "beta": "a)/llh",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλη",
+              "parse": "adj sg fem voc attic epic ionic"
+            },
+            {
+              "form": "ἄλλη",
+              "parse": "adj sg fem nom attic epic ionic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλη",
+              "parse": "adj sg fem voc attic epic ionic"
+            },
+            {
+              "form": "ἄλλη",
+              "parse": "adj sg fem nom attic epic ionic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλην": {
+      "form": "ἄλλην",
+      "bare": "allhn",
+      "beta": "a)/llhn",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλην",
+              "parse": "adj sg fem acc attic epic ionic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλην",
+              "parse": "adj sg fem acc attic epic ionic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄλλης": {
+      "form": "ἄλλης",
+      "bare": "allhs",
+      "beta": "a)/llhs",
+      "analyses": [
+        {
+          "lemmaId": "a)/llos",
+          "lemma": "ἄλλος",
+          "definition": "y",
+          "parses": [
+            {
+              "form": "ἄλλης",
+              "parse": "adj sg fem gen attic epic ionic"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)/llos2",
+          "lemma": "ἄλλος",
+          "definition": "other, another",
+          "parses": [
+            {
+              "form": "ἄλλης",
+              "parse": "adj sg fem gen attic epic ionic"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὅτι": {
+      "form": "ὅτι",
+      "bare": "oti",
+      "beta": "o(/ti",
+      "analyses": [
+        {
+          "lemmaId": "o(/stis",
+          "lemma": "ὅστις",
+          "definition": "that",
+          "parses": [
+            {
+              "form": "ὅτι",
+              "parse": "pron sg neut nom indeclform"
+            },
+            {
+              "form": "ὅτι",
+              "parse": "pron sg neut acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/ti",
+          "lemma": "ὅτι",
+          "definition": "that",
+          "parses": [
+            {
+              "form": "ὅτι",
+              "parse": "adv indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/ti2",
+          "lemma": "ὅτι2",
+          "definition": "that",
+          "parses": [
+            {
+              "form": "ὅτι",
+              "parse": "conj indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "μὲν": {
+      "form": "μὲν",
+      "bare": "men",
+      "beta": "me\\n",
+      "analyses": [
+        {
+          "lemmaId": "me/n",
+          "lemma": "μέν",
+          "definition": "indeed, of a truth",
+          "parses": [
+            {
+              "form": "μέν",
+              "parse": "partic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὑμεῖς": {
+      "form": "ὑμεῖς",
+      "bare": "umeis",
+      "beta": "u(mei=s",
+      "analyses": [
+        {
+          "lemmaId": "su/",
+          "lemma": "σύ",
+          "definition": "thou",
+          "parses": [
+            {
+              "form": "ὑμεῖς",
+              "parse": "pron 2nd pl nom indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὦ": {
+      "form": "ὦ",
+      "bare": "w",
+      "beta": "w)=",
+      "analyses": [
+        {
+          "lemmaId": "ei)mi/",
+          "lemma": "εἰμί",
+          "definition": "sum",
+          "parses": [
+            {
+              "form": "ὦ",
+              "parse": "verb 1st sg pres subj act attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "w)=",
+          "lemma": "ὦ",
+          "definition": "O! oh!",
+          "parses": [
+            {
+              "form": "ὦ",
+              "parse": "exclam indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "w)=2",
+          "lemma": "ὦ2",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "ὦ",
+              "parse": "exclam indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἄνδρες": {
+      "form": "ἄνδρες",
+      "bare": "andres",
+      "beta": "a)/ndres",
+      "analyses": [
+        {
+          "lemmaId": "a)nh/r",
+          "lemma": "ἀνήρ",
+          "definition": "nar-",
+          "parses": [
+            {
+              "form": "ἄνδρες",
+              "parse": "noun pl masc voc indeclform"
+            },
+            {
+              "form": "ἄνδρες",
+              "parse": "noun pl masc nom indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "πεπόνθατε": {
+      "form": "πεπόνθατε",
+      "bare": "peponqate",
+      "beta": "pepo/nqate",
+      "analyses": [
+        {
+          "lemmaId": "pa/sxw",
+          "lemma": "πάσχω",
+          "definition": "have",
+          "parses": [
+            {
+              "form": "πεπόνθατε",
+              "parse": "verb 2nd pl perf ind act"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὑπὸ": {
+      "form": "ὑπὸ",
+      "bare": "upo",
+      "beta": "u(po\\",
+      "analyses": [
+        {
+          "lemmaId": "u(po/",
+          "lemma": "ὑπό",
+          "definition": "úpa",
+          "parses": [
+            {
+              "form": "ὑπό",
+              "parse": "prep indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "τῶν": {
+      "form": "τῶν",
+      "bare": "twn",
+      "beta": "tw=n",
+      "analyses": [
+        {
+          "lemmaId": "o(",
+          "lemma": "ὁ",
+          "definition": "the following",
+          "parses": [
+            {
+              "form": "τῶν",
+              "parse": "article pl neut gen indeclform"
+            },
+            {
+              "form": "τῶν",
+              "parse": "article pl masc gen indeclform"
+            },
+            {
+              "form": "τῶν",
+              "parse": "article pl fem gen indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐμῶν": {
+      "form": "ἐμῶν",
+      "bare": "emwn",
+      "beta": "e)mw=n",
+      "analyses": [
+        {
+          "lemmaId": "e)me/w",
+          "lemma": "ἐμέω",
+          "definition": "vomit, throw up",
+          "parses": [
+            {
+              "form": "ἐμῶν",
+              "parse": "part sg pres act masc nom attic epic doric contr"
+            },
+            {
+              "form": "ἐμῶν",
+              "parse": "part sg fut act masc nom attic epic doric contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "e)mo/s",
+          "lemma": "ἐμός",
+          "definition": "mine",
+          "parses": [
+            {
+              "form": "ἐμῶν",
+              "parse": "adj pl masc gen"
+            },
+            {
+              "form": "ἐμῶν",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "ἐμῶν",
+              "parse": "adj pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "mw=mai",
+          "lemma": "μῶμαι",
+          "definition": "seek after, covet",
+          "parses": [
+            {
+              "form": "ἐμῶν",
+              "parse": "verb 3rd pl imperf ind act epic doric aeolic"
+            },
+            {
+              "form": "ἐμῶν",
+              "parse": "verb 1st sg imperf ind act doric"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "κατηγόρων": {
+      "form": "κατηγόρων",
+      "bare": "kathgorwn",
+      "beta": "kathgo/rwn",
+      "analyses": [
+        {
+          "lemmaId": "kath/goros",
+          "lemma": "κατήγορος",
+          "definition": "accuser",
+          "parses": [
+            {
+              "form": "κατηγόρων",
+              "parse": "adj pl masc gen"
+            },
+            {
+              "form": "κατηγόρων",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "κατηγόρων",
+              "parse": "adj pl fem gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kathgore/w",
+          "lemma": "κατηγορέω",
+          "definition": "speak against",
+          "parses": [
+            {
+              "form": "κατηγόρων",
+              "parse": "part sg pres act masc nom attic epic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "οὐκ": {
+      "form": "οὐκ",
+      "bare": "ouk",
+      "beta": "ou)k",
+      "analyses": [
+        {
+          "lemmaId": "ou)",
+          "lemma": "οὐ",
+          "definition": "fact",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)10",
+          "lemma": "οὐ10",
+          "definition": "no truly",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)11",
+          "lemma": "οὐ11",
+          "definition": "assuredly not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)12",
+          "lemma": "οὐ12",
+          "definition": "no truly, nay verily",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)13",
+          "lemma": "οὐ13",
+          "definition": "on the contrary . . not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)14",
+          "lemma": "οὐ14",
+          "definition": "surely not, verily not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)15",
+          "lemma": "οὐ15",
+          "definition": "since",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)16",
+          "lemma": "οὐ16",
+          "definition": "not however",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)17",
+          "lemma": "οὐ17",
+          "definition": "nevertheless, notwithstanding, yet, still",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)18",
+          "lemma": "οὐ18",
+          "definition": "never yet ai any time",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)2",
+          "lemma": "οὐ2",
+          "definition": "for not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)3",
+          "lemma": "οὐ3",
+          "definition": "indeed",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)4",
+          "lemma": "οὐ4",
+          "definition": "for surely not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)5",
+          "lemma": "οὐ5",
+          "definition": "no,—certainly not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)6",
+          "lemma": "οὐ6",
+          "definition": "for I don't suppose",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)7",
+          "lemma": "οὐ7",
+          "definition": "for in no manner",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)8",
+          "lemma": "οὐ8",
+          "definition": "certainly not, in sooth not",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "ou)9",
+          "lemma": "οὐ9",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "οὐκ",
+              "parse": "adv proclitic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "οἶδα": {
+      "form": "οἶδα",
+      "bare": "oida",
+      "beta": "oi)=da",
+      "analyses": [
+        {
+          "lemmaId": "oi)=da",
+          "lemma": "οἶδα",
+          "definition": "to know",
+          "parses": [
+            {
+              "form": "οἶδα",
+              "parse": "verb 1st sg perf ind act"
+            }
+          ]
+        },
+        {
+          "lemmaId": "oi)=dos",
+          "lemma": "οἶδος",
+          "definition": "swelling, tumour,",
+          "parses": [
+            {
+              "form": "οἶδα",
+              "parse": "noun pl neut voc doric aeolic contr"
+            },
+            {
+              "form": "οἶδα",
+              "parse": "noun pl neut nom doric aeolic contr"
+            },
+            {
+              "form": "οἶδα",
+              "parse": "noun pl neut acc doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐγὼ": {
+      "form": "ἐγὼ",
+      "bare": "egw",
+      "beta": "e)gw\\",
+      "analyses": [
+        {
+          "lemmaId": "e)gw/",
+          "lemma": "ἐγώ",
+          "definition": "I at least, for my part, indeed, for myself",
+          "parses": [
+            {
+              "form": "ἐγώ",
+              "parse": "pron 1st sg masc voc indeclform"
+            },
+            {
+              "form": "ἐγώ",
+              "parse": "pron 1st sg masc nom indeclform"
+            },
+            {
+              "form": "ἐγώ",
+              "parse": "pron 1st sg fem voc indeclform"
+            },
+            {
+              "form": "ἐγώ",
+              "parse": "pron 1st sg fem nom indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "δ": {
+      "form": "δ",
+      "bare": "d",
+      "beta": "d",
+      "analyses": [
+        {
+          "lemmaId": "de/",
+          "lemma": "δέ",
+          "definition": "but",
+          "parses": [
+            {
+              "form": "δ᾽",
+              "parse": "partic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "οὖν": {
+      "form": "οὖν",
+      "bare": "oun",
+      "beta": "ou)=n",
+      "analyses": [
+        {
+          "lemmaId": "ou)=n",
+          "lemma": "οὖν",
+          "definition": "certainly, in fact",
+          "parses": [
+            {
+              "form": "οὖν",
+              "parse": "partic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "καὶ": {
+      "form": "καὶ",
+      "bare": "kai",
+      "beta": "kai\\",
+      "analyses": [
+        {
+          "lemmaId": "kai/",
+          "lemma": "καί",
+          "definition": "and",
+          "parses": [
+            {
+              "form": "καί",
+              "parse": "conj indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kai/2",
+          "lemma": "καί2",
+          "definition": "and now",
+          "parses": [
+            {
+              "form": "καί",
+              "parse": "conj indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kai/3",
+          "lemma": "καί3",
+          "definition": "and so",
+          "parses": [
+            {
+              "form": "καί",
+              "parse": "conj indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "kai/4",
+          "lemma": "καί4",
+          "definition": "and indeed, and further",
+          "parses": [
+            {
+              "form": "καί",
+              "parse": "conj indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "αὐτὸς": {
+      "form": "αὐτὸς",
+      "bare": "autos",
+      "beta": "au)to\\s",
+      "analyses": [
+        {
+          "lemmaId": "au)to/s",
+          "lemma": "αὐτός",
+          "definition": "self",
+          "parses": [
+            {
+              "form": "αὐτός",
+              "parse": "adj sg masc nom"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὑπ": {
+      "form": "ὑπ",
+      "bare": "up",
+      "beta": "u(p",
+      "analyses": [
+        {
+          "lemmaId": "u(po/",
+          "lemma": "ὑπό",
+          "definition": "úpa",
+          "parses": [
+            {
+              "form": "ὕπ᾽",
+              "parse": "prep indeclform"
+            },
+            {
+              "form": "ὑπ᾽",
+              "parse": "prep indeclform"
+            },
+            {
+              "form": "ὐπ᾽",
+              "parse": "prep aeolic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "αὐτῶν": {
+      "form": "αὐτῶν",
+      "bare": "autwn",
+      "beta": "au)tw=n",
+      "analyses": [
+        {
+          "lemmaId": "au)to/s",
+          "lemma": "αὐτός",
+          "definition": "self",
+          "parses": [
+            {
+              "form": "αὐτῶν",
+              "parse": "adj pl neut gen"
+            },
+            {
+              "form": "αὐτῶν",
+              "parse": "adj pl masc gen"
+            },
+            {
+              "form": "αὐτῶν",
+              "parse": "adj pl fem gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "καλοῦσιν": {
+      "form": "καλοῦσιν",
+      "bare": "kalousin",
+      "beta": "kalou=sin",
+      "analyses": [
+        {
+          "lemmaId": "kale/w",
+          "lemma": "καλέω",
+          "definition": "call, summon",
+          "parses": [
+            {
+              "form": "καλοῦσιν",
+              "parse": "verb 3rd pl pres ind act attic epic doric contr nu_movable"
+            },
+            {
+              "form": "καλοῦσιν",
+              "parse": "verb 3rd pl fut ind act attic epic doric contr nu_movable"
+            },
+            {
+              "form": "καλοῦσιν",
+              "parse": "part pl pres act masc dat attic epic doric contr nu_movable"
+            },
+            {
+              "form": "καλοῦσιν",
+              "parse": "part pl pres act neut dat attic epic doric contr nu_movable"
+            },
+            {
+              "form": "καλοῦσιν",
+              "parse": "part pl fut act neut dat attic epic doric contr nu_movable"
+            },
+            {
+              "form": "καλοῦσιν",
+              "parse": "part pl fut act masc dat attic epic doric contr nu_movable"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "αὐτίκα": {
+      "form": "αὐτίκα",
+      "bare": "autika",
+      "beta": "au)ti/ka",
+      "analyses": [
+        {
+          "lemmaId": "au)ti/ka",
+          "lemma": "αὐτίκα",
+          "definition": "forthwith, at once, in a moment,",
+          "parses": [
+            {
+              "form": "αὐτίκα",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "δεινοῦ": {
+      "form": "δεινοῦ",
+      "bare": "deinou",
+      "beta": "deinou=",
+      "analyses": [
+        {
+          "lemmaId": "dei=nos",
+          "lemma": "δεῖνος",
+          "definition": "[definition unavailable]",
+          "parses": [
+            {
+              "form": "δεινοῦ",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "dei=nos2",
+          "lemma": "δεῖνος",
+          "definition": "different round vessels,",
+          "parses": [
+            {
+              "form": "δεινοῦ",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "deino/s",
+          "lemma": "δεινός",
+          "definition": "fearful, terrible;",
+          "parses": [
+            {
+              "form": "δεινοῦ",
+              "parse": "adj sg neut gen"
+            },
+            {
+              "form": "δεινοῦ",
+              "parse": "adj sg masc gen"
+            }
+          ]
+        },
+        {
+          "lemmaId": "deino/w",
+          "lemma": "δεινόω",
+          "definition": "make terrible: exaggerate,",
+          "parses": [
+            {
+              "form": "δεινοῦ",
+              "parse": "verb 3rd sg imperf ind act homeric ionic contr unaugmented"
+            },
+            {
+              "form": "δεινοῦ",
+              "parse": "verb 2nd sg pres imperat act contr"
+            },
+            {
+              "form": "δεινοῦ",
+              "parse": "verb 2nd sg pres imperat mp contr"
+            },
+            {
+              "form": "δεινοῦ",
+              "parse": "verb 2nd sg imperf ind mp homeric ionic contr unaugmented"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὥσπερ": {
+      "form": "ὥσπερ",
+      "bare": "wsper",
+      "beta": "w(/sper",
+      "analyses": [
+        {
+          "lemmaId": "w(/sper",
+          "lemma": "ὥσπερ",
+          "definition": "like as, even as,",
+          "parses": [
+            {
+              "form": "ὥσπερ",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἀγορᾷ": {
+      "form": "ἀγορᾷ",
+      "bare": "agora",
+      "beta": "a)gora=|",
+      "analyses": [
+        {
+          "lemmaId": "a)gora/",
+          "lemma": "ἀγορά",
+          "definition": "assembly",
+          "parses": [
+            {
+              "form": "ἀγορᾷ",
+              "parse": "noun sg fem dat attic doric aeolic"
+            },
+            {
+              "form": "ἀγορᾷ",
+              "parse": "noun pl fem voc"
+            },
+            {
+              "form": "ἀγορᾷ",
+              "parse": "noun pl fem nom"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)gora/omai",
+          "lemma": "ἀγοράομαι",
+          "definition": "meet in assembly, sit in debate",
+          "parses": [
+            {
+              "form": "ἀγορᾷ",
+              "parse": "verb 2nd sg pres subj mid contr"
+            },
+            {
+              "form": "ἀγορᾷ",
+              "parse": "verb 2nd sg pres ind mid epic doric aeolic contr"
+            }
+          ]
+        },
+        {
+          "lemmaId": "a)gora/zw",
+          "lemma": "ἀγοράζω",
+          "definition": "frequent the",
+          "parses": [
+            {
+              "form": "ἀγορᾷ",
+              "parse": "verb 3rd sg fut ind act epic doric aeolic contr"
+            },
+            {
+              "form": "ἀγορᾷ",
+              "parse": "verb 2nd sg fut ind mid epic doric aeolic contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὑμᾶς": {
+      "form": "ὑμᾶς",
+      "bare": "umas",
+      "beta": "u(ma=s",
+      "analyses": [
+        {
+          "lemmaId": "su/",
+          "lemma": "σύ",
+          "definition": "thou",
+          "parses": [
+            {
+              "form": "ὑμᾶς",
+              "parse": "pron 2nd pl acc indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "u(mo/s",
+          "lemma": "ὑμός",
+          "definition": "your,",
+          "parses": [
+            {
+              "form": "ὑμᾶς",
+              "parse": "adj sg fem gen epic doric aeolic"
+            },
+            {
+              "form": "ὑμᾶς",
+              "parse": "adj pl fem acc epic doric"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "δικαστοῦ": {
+      "form": "δικαστοῦ",
+      "bare": "dikastou",
+      "beta": "dikastou=",
+      "analyses": [
+        {
+          "lemmaId": "dikasth/s",
+          "lemma": "δικαστής",
+          "definition": "a judge,",
+          "parses": [
+            {
+              "form": "δικαστοῦ",
+              "parse": "noun sg masc gen"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐμαυτοῦ": {
+      "form": "ἐμαυτοῦ",
+      "bare": "emautou",
+      "beta": "e)mautou=",
+      "analyses": [
+        {
+          "lemmaId": "e)mautou=",
+          "lemma": "ἐμαυτοῦ",
+          "definition": "of me, of myself",
+          "parses": [
+            {
+              "form": "ἐμαυτοῦ",
+              "parse": "pron sg neut gen indeclform"
+            },
+            {
+              "form": "ἐμαυτοῦ",
+              "parse": "pron sg masc gen indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐπελαθόμην": {
+      "form": "ἐπελαθόμην",
+      "bare": "epelaqomhn",
+      "beta": "e)pelaqo/mhn",
+      "analyses": [
+        {
+          "lemmaId": "e)pilanqa/nomai",
+          "lemma": "ἐπιλανθάνομαι",
+          "definition": "to forget",
+          "parses": [
+            {
+              "form": "ἐπελαθόμην",
+              "parse": "verb 1st sg imperf ind mp doric"
+            },
+            {
+              "form": "ἐπελαθόμην",
+              "parse": "verb 1st sg aor ind mid"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐψεύσαντο": {
+      "form": "ἐψεύσαντο",
+      "bare": "eyeusanto",
+      "beta": "e)yeu/santo",
+      "analyses": [
+        {
+          "lemmaId": "yeu/dw",
+          "lemma": "ψεύδω",
+          "definition": "cheat by lies, beguile,",
+          "parses": [
+            {
+              "form": "ἐψεύσαντο",
+              "parse": "verb 3rd pl aor ind mid"
+            }
+          ]
+        },
+        {
+          "lemmaId": "yeu/dw2",
+          "lemma": "ψεύδω2",
+          "definition": "to cheat by lies, beguile",
+          "parses": [
+            {
+              "form": "ἐψεύσαντο",
+              "parse": "verb 3rd pl aor ind mid"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὡς": {
+      "form": "ὡς",
+      "bare": "ws",
+      "beta": "w(s",
+      "analyses": [
+        {
+          "lemmaId": "o(/s",
+          "lemma": "ὅς",
+          "definition": "yas, yā, yad,",
+          "parses": [
+            {
+              "form": "ὡς",
+              "parse": "pron pl masc acc doric indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "o(/s2",
+          "lemma": "ὅς",
+          "definition": "his, her,",
+          "parses": [
+            {
+              "form": "ὡς",
+              "parse": "pron pl masc acc doric indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "w(s",
+          "lemma": "ὡς",
+          "definition": "so, thus.",
+          "parses": [
+            {
+              "form": "ὡς",
+              "parse": "conj proclitic indeclform"
+            },
+            {
+              "form": "ὡς",
+              "parse": "adv indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "w(s2",
+          "lemma": "ὡς",
+          "definition": "as, how;",
+          "parses": [
+            {
+              "form": "ὡς",
+              "parse": "conj proclitic indeclform"
+            },
+            {
+              "form": "ὡς",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "πιθανῶς": {
+      "form": "πιθανῶς",
+      "bare": "piqanws",
+      "beta": "piqanw=s",
+      "analyses": [
+        {
+          "lemmaId": "piqano/s",
+          "lemma": "πιθανός",
+          "definition": "persuasive, plausible",
+          "parses": [
+            {
+              "form": "πιθανῶς",
+              "parse": "adj pl masc acc doric"
+            },
+            {
+              "form": "πιθανῶς",
+              "parse": "adv"
+            }
+          ]
+        },
+        {
+          "lemmaId": "piqano/w",
+          "lemma": "πιθανόω",
+          "definition": "make probable",
+          "parses": [
+            {
+              "form": "πιθανῶς",
+              "parse": "verb 2nd sg imperf ind act doric aeolic poetic contr unaugmented"
+            },
+            {
+              "form": "πιθανῶς",
+              "parse": "verb 2nd sg pres ind act doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "οὐδὲν": {
+      "form": "οὐδὲν",
+      "bare": "ouden",
+      "beta": "ou)de\\n",
+      "analyses": [
+        {
+          "lemmaId": "ou)dei/s",
+          "lemma": "οὐδείς",
+          "definition": "not one",
+          "parses": [
+            {
+              "form": "οὐδέν",
+              "parse": "adj sg neut voc indeclform"
+            },
+            {
+              "form": "οὐδέν",
+              "parse": "adj sg neut nom indeclform"
+            },
+            {
+              "form": "οὐδέν",
+              "parse": "adj sg neut acc indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ὑμῶν": {
+      "form": "ὑμῶν",
+      "bare": "umwn",
+      "beta": "u(mw=n",
+      "analyses": [
+        {
+          "lemmaId": "su/",
+          "lemma": "σύ",
+          "definition": "thou",
+          "parses": [
+            {
+              "form": "ὑμῶν",
+              "parse": "pron 2nd pl gen indeclform"
+            }
+          ]
+        },
+        {
+          "lemmaId": "u(mo/s",
+          "lemma": "ὑμός",
+          "definition": "your,",
+          "parses": [
+            {
+              "form": "ὑμῶν",
+              "parse": "adj pl neut gen epic doric"
+            },
+            {
+              "form": "ὑμῶν",
+              "parse": "adj pl masc gen epic doric"
+            },
+            {
+              "form": "ὑμῶν",
+              "parse": "adj pl fem gen epic doric"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "συνεγιγνώσκετε": {
+      "form": "συνεγιγνώσκετε",
+      "bare": "sunegignwskete",
+      "beta": "sunegignw/skete",
+      "analyses": [
+        {
+          "lemmaId": "suggignw/skw",
+          "lemma": "συγγιγνώσκω",
+          "definition": "think with, agree with",
+          "parses": [
+            {
+              "form": "συνεγιγνώσκετε",
+              "parse": "verb 2nd pl imperf ind act pres_redupl"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ταύτην": {
+      "form": "ταύτην",
+      "bare": "tauthn",
+      "beta": "tau/thn",
+      "analyses": [
+        {
+          "lemmaId": "ou(=tos",
+          "lemma": "οὗτος",
+          "definition": "this",
+          "parses": [
+            {
+              "form": "ταύτην",
+              "parse": "adj sg fem acc attic epic ionic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐπιχειρητέον": {
+      "form": "ἐπιχειρητέον",
+      "bare": "epixeirhteon",
+      "beta": "e)pixeirhte/on",
+      "analyses": [
+        {
+          "lemmaId": "e)pixeirhte/on",
+          "lemma": "ἐπιχειρητέον",
+          "definition": "one must attempt,",
+          "parses": [
+            {
+              "form": "ἐπιχειρητέον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἐπιχειρητέον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἐπιχειρητέον",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἐπιχειρητέον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἐπιχειρητέον",
+              "parse": "adj sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἀναβέβηκα": {
+      "form": "ἀναβέβηκα",
+      "bare": "anabebhka",
+      "beta": "a)nabe/bhka",
+      "analyses": [
+        {
+          "lemmaId": "a)nabai/nw",
+          "lemma": "ἀναβαίνω",
+          "definition": "go up, mount,",
+          "parses": [
+            {
+              "form": "ἀναβέβηκα",
+              "parse": "verb 1st sg perf ind act"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἡγοῦνται": {
+      "form": "ἡγοῦνται",
+      "bare": "hgountai",
+      "beta": "h(gou=ntai",
+      "analyses": [
+        {
+          "lemmaId": "h(ge/omai",
+          "lemma": "ἡγέομαι",
+          "definition": "go before, lead the way",
+          "parses": [
+            {
+              "form": "ἡγοῦνται",
+              "parse": "verb 3rd pl pres ind mid attic epic doric contr"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἀλογώτατον": {
+      "form": "ἀλογώτατον",
+      "bare": "alogwtaton",
+      "beta": "a)logw/taton",
+      "analyses": [
+        {
+          "lemmaId": "a)/logos",
+          "lemma": "ἄλογος",
+          "definition": "without",
+          "parses": [
+            {
+              "form": "ἀλογώτατον",
+              "parse": "adj sg neut voc superl"
+            },
+            {
+              "form": "ἀλογώτατον",
+              "parse": "adj sg masc acc superl"
+            },
+            {
+              "form": "ἀλογώτατον",
+              "parse": "adj sg neut acc superl"
+            },
+            {
+              "form": "ἀλογώτατον",
+              "parse": "adj sg neut nom superl"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "τοὺς": {
+      "form": "τοὺς",
+      "bare": "tous",
+      "beta": "tou\\s",
+      "analyses": [
+        {
+          "lemmaId": "o(",
+          "lemma": "ὁ",
+          "definition": "the following",
+          "parses": [
+            {
+              "form": "τούς",
+              "parse": "article pl masc acc indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἀδύνατον": {
+      "form": "ἀδύνατον",
+      "bare": "adunaton",
+      "beta": "a)du/naton",
+      "analyses": [
+        {
+          "lemmaId": "a)du/natos",
+          "lemma": "ἀδύνατος",
+          "definition": "unable",
+          "parses": [
+            {
+              "form": "ἀδύνατον",
+              "parse": "adj sg neut voc"
+            },
+            {
+              "form": "ἀδύνατον",
+              "parse": "adj sg neut nom"
+            },
+            {
+              "form": "ἀδύνατον",
+              "parse": "adj sg neut acc"
+            },
+            {
+              "form": "ἀδύνατον",
+              "parse": "adj sg masc acc"
+            },
+            {
+              "form": "ἀδύνατον",
+              "parse": "adj sg fem acc"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "μέγιστον": {
+      "form": "μέγιστον",
+      "bare": "megiston",
+      "beta": "me/giston",
+      "analyses": [
+        {
+          "lemmaId": "me/gas",
+          "lemma": "μέγας",
+          "definition": "big",
+          "parses": [
+            {
+              "form": "μέγιστον",
+              "parse": "adj sg neut voc irreg_superl"
+            },
+            {
+              "form": "μέγιστον",
+              "parse": "adj sg neut nom irreg_superl"
+            },
+            {
+              "form": "μέγιστον",
+              "parse": "adj sg masc acc irreg_superl"
+            },
+            {
+              "form": "μέγιστον",
+              "parse": "adj sg neut acc irreg_superl"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "δὲ": {
+      "form": "δὲ",
+      "bare": "de",
+      "beta": "de\\",
+      "analyses": [
+        {
+          "lemmaId": "de/",
+          "lemma": "δέ",
+          "definition": "but",
+          "parses": [
+            {
+              "form": "δέ",
+              "parse": "partic indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "οὕτως": {
+      "form": "οὕτως",
+      "bare": "outws",
+      "beta": "ou(/tws",
+      "analyses": [
+        {
+          "lemmaId": "ou(/tws",
+          "lemma": "οὕτως",
+          "definition": "in this way",
+          "parses": [
+            {
+              "form": "οὕτως",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "ἐθαύμασα": {
+      "form": "ἐθαύμασα",
+      "bare": "eqaumasa",
+      "beta": "e)qau/masa",
+      "analyses": [
+        {
+          "lemmaId": "qauma/zw",
+          "lemma": "θαυμάζω",
+          "definition": "wonder, marvel",
+          "parses": [
+            {
+              "form": "ἐθαύμασα",
+              "parse": "verb 1st sg aor ind act"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "οὕτω": {
+      "form": "οὕτω",
+      "bare": "outw",
+      "beta": "ou(/tw",
+      "analyses": [
+        {
+          "lemmaId": "ou(/tws",
+          "lemma": "οὕτως",
+          "definition": "in this way",
+          "parses": [
+            {
+              "form": "οὕτω",
+              "parse": "adv indeclform"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    },
+    "φαίνωμαι": {
+      "form": "φαίνωμαι",
+      "bare": "fainwmai",
+      "beta": "fai/nwmai",
+      "analyses": [
+        {
+          "lemmaId": "fai/nw",
+          "lemma": "φαίνω",
+          "definition": "A ren.",
+          "parses": [
+            {
+              "form": "φαίνωμαι",
+              "parse": "verb 1st sg pres subj mp"
+            }
+          ]
+        }
+      ],
+      "source": "Perseus Hopper morph",
+      "fetched": true
+    }
+  },
+  "generatedFrom": "Perseus Hopper morph HTML"
+}

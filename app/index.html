@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Plato, Apology Local Reader</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Plato, Apology</h1>
+        <p>Greek text with local word lookup</p>
+      </div>
+      <nav id="sectionNav" aria-label="Sections"></nav>
+    </header>
+
+    <main class="layout">
+      <article id="text" class="text" lang="grc"></article>
+      <aside class="panel">
+        <iframe
+          id="morphFrame"
+          name="morphFrame"
+          title="Local morphology"
+          src="./morph.html"
+        ></iframe>
+      </aside>
+    </main>
+
+    <script src="./reader.js"></script>
+  </body>
+</html>

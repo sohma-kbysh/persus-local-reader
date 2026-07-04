@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local macOS launchers generated for one machine.
+*.app/
+scripts/*.applescript
+scripts/*.jxa
+
+# Runtime state.
+data/build/
+
+# Download/cache artifacts that are not needed to use the published reader.
+data/vendor/
+
