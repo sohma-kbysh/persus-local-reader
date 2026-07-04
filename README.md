@@ -204,6 +204,7 @@ https://raw.githubusercontent.com/sohma-kbysh/perseus-local-reader/main/VERSION
 ```
 
 リモート版が現在のアプリ版より新しい場合、更新するか確認するダイアログを表示します。
+更新確認では、GitHub Rawの古い応答を避けるため、毎回異なるクエリ文字列と `no-cache` ヘッダーを使用します。
 
 オフライン、タイムアウト、GitHubへの接続失敗などが起きても、読書機能は停止しません。既存のローカルデータでそのまま利用できます。
 
@@ -234,7 +235,10 @@ Git cloneした開発用チェックアウトでは `git pull --ff-only origin m
 .developer/app/data/morph.json
 .developer/app/data/texts/
 .developer/data/vendor/
+.developer/data/user/
 ```
+
+`.developer/data/user/` には、メモ、お気に入り、蛍光マーカーなどの利用者データが保存されます。更新時には一時退避してから復元されます。
 
 Gitチェックアウトに、利用者データ以外の未コミット変更がある場合、自動更新は安全のため中止されます。
 

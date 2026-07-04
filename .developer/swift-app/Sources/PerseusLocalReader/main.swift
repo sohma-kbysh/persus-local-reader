@@ -1000,10 +1000,19 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate,
     }
 
     private func checkForUpdates(manual: Bool) {
-        guard let url = URL(
-            string:
-                "https://raw.githubusercontent.com/\(repositoryOwner)/\(repositoryName)/\(updateBranch)/VERSION"
-        ) else {
+        var versionComponents = URLComponents()
+        versionComponents.scheme = "https"
+        versionComponents.host = "raw.githubusercontent.com"
+        versionComponents.path =
+            "/\(repositoryOwner)/\(repositoryName)/\(updateBranch)/VERSION"
+        versionComponents.queryItems = [
+            URLQueryItem(
+                name: "ts",
+                value: String(Int(Date().timeIntervalSince1970))
+            )
+        ]
+
+        guard let url = versionComponents.url else {
             return
         }
 
@@ -1014,8 +1023,13 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate,
         }
 
         var request = URLRequest(url: url)
-        request.cachePolicy = .reloadIgnoringLocalCacheData
+        request.cachePolicy = .reloadIgnoringLocalAndRemoteCacheData
         request.timeoutInterval = 4
+        request.setValue(
+            "no-cache, no-store, max-age=0",
+            forHTTPHeaderField: "Cache-Control"
+        )
+        request.setValue("no-cache", forHTTPHeaderField: "Pragma")
 
         URLSession.shared.dataTask(with: request) { data, response, error in
             DispatchQueue.main.async {

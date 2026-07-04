@@ -11,6 +11,7 @@ DEV_ROOT="$REPO_ROOT/.developer"
 BUILD_ROOT="$DEV_ROOT/data/build"
 MORPH="$DEV_ROOT/app/data/morph.json"
 TEXTS="$DEV_ROOT/app/data/texts"
+USER_DATA="$DEV_ROOT/data/user"
 MERGE_SCRIPT="$DEV_ROOT/scripts/merge_morph_cache.py"
 LOG="$BUILD_ROOT/swift-update.log"
 
@@ -45,13 +46,18 @@ if [[ -d "$TEXTS" ]]; then
   /usr/bin/rsync -a "$TEXTS/" "$BACKUP/texts/"
 fi
 
+if [[ -d "$USER_DATA" ]]; then
+  mkdir -p "$BACKUP/user"
+  /usr/bin/rsync -a "$USER_DATA/" "$BACKUP/user/"
+fi
+
 if [[ -d "$REPO_ROOT/.git" ]]; then
   echo "Updating Git checkout..."
   cd "$REPO_ROOT"
 
   DIRTY="$(
     git status --porcelain \
-      | /usr/bin/grep -vE '^[ MARC?]{2} \.developer/app/data/(morph\.json|texts/)' \
+      | /usr/bin/grep -vE '^[ MARC?]{2} (\.developer/app/data/(morph\.json|texts/)|\.developer/data/user/)' \
       || true
   )"
 
@@ -101,6 +107,7 @@ else
     --exclude='.developer/app/data/texts/' \
     --exclude='.developer/data/build/' \
     --exclude='.developer/data/vendor/' \
+    --exclude='.developer/data/user/' \
     --exclude='Perseus Local Reader.app/' \
     "$SOURCE/" "$REPO_ROOT/"
 
@@ -150,6 +157,11 @@ fi
 if [[ -d "$BACKUP/texts" ]]; then
   mkdir -p "$TEXTS"
   /usr/bin/rsync -a "$BACKUP/texts/" "$TEXTS/"
+fi
+
+if [[ -d "$BACKUP/user" ]]; then
+  mkdir -p "$USER_DATA"
+  /usr/bin/rsync -a "$BACKUP/user/" "$USER_DATA/"
 fi
 
 SOURCE_APP="$REPO_ROOT/Perseus Local Reader.app"
