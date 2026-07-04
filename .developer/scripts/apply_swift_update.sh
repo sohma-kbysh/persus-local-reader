@@ -94,13 +94,48 @@ else
 
   [[ -n "$SOURCE" ]] || fail "ダウンロードした更新ファイルを展開できませんでした。"
 
+  # Update repository files, but never merge an app bundle in place.
   /usr/bin/rsync -a \
     --exclude='.git/' \
     --exclude='.developer/app/data/morph.json' \
     --exclude='.developer/app/data/texts/' \
     --exclude='.developer/data/build/' \
     --exclude='.developer/data/vendor/' \
+    --exclude='Perseus Local Reader.app/' \
     "$SOURCE/" "$REPO_ROOT/"
+
+  DOWNLOADED_APP="$SOURCE/Perseus Local Reader.app"
+  [[ -d "$DOWNLOADED_APP" ]] \
+    || fail "ダウンロードした更新にアプリ本体が含まれていませんでした。"
+
+  REPO_APP="$REPO_ROOT/Perseus Local Reader.app"
+  REPO_APP_TEMP="$REPO_ROOT/.Perseus Local Reader.source.$$.app"
+  REPO_APP_OLD="$REPO_ROOT/.Perseus Local Reader.source-old.$$.app"
+
+  /bin/rm -rf "$REPO_APP_TEMP" "$REPO_APP_OLD"
+
+  /usr/bin/ditto --noqtn "$DOWNLOADED_APP" "$REPO_APP_TEMP" \
+    || fail "更新用アプリを作業フォルダへコピーできませんでした。"
+
+  /usr/bin/find "$REPO_APP_TEMP" -name "._*" -delete 2>/dev/null || true
+  /usr/bin/xattr -cr "$REPO_APP_TEMP" 2>/dev/null || true
+
+  /usr/bin/codesign --verify --deep --strict --verbose=2 "$REPO_APP_TEMP" \
+    || fail "ダウンロードした更新用アプリの署名を検証できませんでした。"
+
+  if [[ -d "$REPO_APP" ]]; then
+    /bin/mv "$REPO_APP" "$REPO_APP_OLD" \
+      || fail "現在の更新元アプリを退避できませんでした。"
+  fi
+
+  if ! /bin/mv "$REPO_APP_TEMP" "$REPO_APP"; then
+    if [[ -d "$REPO_APP_OLD" && ! -d "$REPO_APP" ]]; then
+      /bin/mv "$REPO_APP_OLD" "$REPO_APP" 2>/dev/null || true
+    fi
+    fail "更新元アプリを新しい署名済みバンドルへ置換できませんでした。"
+  fi
+
+  /bin/rm -rf "$REPO_APP_OLD"
 fi
 
 if [[ -f "$BACKUP/morph.json" ]]; then
@@ -142,6 +177,9 @@ if [[ "$TARGET_APP" != "$SOURCE_APP" ]]; then
 
   # The distributed source bundle is already signed during the release build.
   # Verify that signature before touching the user's installed copy.
+  /usr/bin/find "$SOURCE_APP" -name "._*" -delete 2>/dev/null || true
+  /usr/bin/xattr -cr "$SOURCE_APP" 2>/dev/null || true
+
   /usr/bin/codesign --verify --deep --strict --verbose=2 "$SOURCE_APP" \
     || fail "配布された更新用アプリの署名を検証できませんでした。"
 
