@@ -150,7 +150,12 @@ if [[ "$TARGET_APP" != "$SOURCE_APP" ]]; then
       || fail "安定した場所へのアプリのコピーに失敗しました。"
   fi
 
-  /usr/bin/codesign --verify --deep --strict "$TARGET_APP" \
+  # Copying over an existing app bundle can leave the previous ad-hoc
+  # signature stale. Re-sign the updated target bundle in place, then verify it.
+  /usr/bin/codesign --force --deep --sign - "$TARGET_APP" \
+    || fail "更新後のアプリを再署名できませんでした。"
+
+  /usr/bin/codesign --verify --deep --strict --verbose=2 "$TARGET_APP" \
     || fail "更新後のアプリ署名を検証できませんでした。"
 fi
 
