@@ -4,12 +4,8 @@ __pycache__/
 
 # Local macOS launchers generated for one machine.
 *.app/
-!Open Perseus Local Reader.app/
-!Open Perseus Local Reader.app/**
-!Close Perseus Local Reader.app/
-!Close Perseus Local Reader.app/**
-!Update Perseus Local Reader.app/
-!Update Perseus Local Reader.app/**
+!Perseus Local Reader.app/
+!Perseus Local Reader.app/**
 scripts/*.applescript
 scripts/*.jxa
 !scripts/open_reader_app.jxa
