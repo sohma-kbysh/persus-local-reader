@@ -34,6 +34,7 @@ cp "$EXECUTABLE" "$APP_PATH/Contents/MacOS/PerseusLocalReader"
 
 ICON_SOURCE=""
 for candidate in \
+  "$PACKAGE_ROOT/Resources/AppIcon.icns" \
   "$REPO_ROOT/Open Perseus Local Reader.app/Contents/Resources/applet.icns" \
   "$REPO_ROOT/.developer/assets/apology-icon.icns"
 do

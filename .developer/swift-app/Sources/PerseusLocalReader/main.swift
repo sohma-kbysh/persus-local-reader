@@ -4,7 +4,7 @@ import Darwin
 
 private let repositoryOwner = "sohma-kbysh"
 private let repositoryName = "perseus-local-reader"
-private let updateBranch = "feature/swift-migration"
+private let updateBranch = "main"
 private let defaultPort = 8000
 
 final class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate {
