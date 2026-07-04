@@ -7,7 +7,7 @@ Local reading environment for Plato's *Apology* using openly distributed Perseus
 On macOS, double-click:
 
 ```text
-Open Plato Apology.command
+Open Plato Apology.app
 ```
 
 It starts the local reader and opens your browser. The reader stops itself
@@ -16,7 +16,7 @@ automatically after about 8 hours without access.
 To update this folder from GitHub, double-click:
 
 ```text
-Update Plato Apology.command
+Update Plato Apology.app
 ```
 
 The updater preserves locally cached morphology data, pulls the latest files
@@ -36,25 +36,6 @@ on your own computer at `http://127.0.0.1:8000/`.
 The morph panel first uses `app/data/morph.json` when a cached Perseus analysis
 is available. Otherwise it falls back to normalized forms and local lemma
 candidates from `hib_lemmas.sql`.
-
-## Local App Files
-
-Double-click:
-
-```text
-Open Plato Apology.app
-```
-
-It starts the local reader in the background and opens the browser.
-
-To update from GitHub, double-click:
-
-```text
-Update Plato Apology.app
-```
-
-The local reader also stops itself automatically after about 8 hours without
-access.
 
 ## Terminal
 

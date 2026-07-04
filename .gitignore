@@ -4,12 +4,17 @@ __pycache__/
 
 # Local macOS launchers generated for one machine.
 *.app/
+!Open Plato Apology.app/
+!Open Plato Apology.app/**
+!Update Plato Apology.app/
+!Update Plato Apology.app/**
 scripts/*.applescript
 scripts/*.jxa
+!scripts/open_reader_app.jxa
+!scripts/update_reader_app.jxa
 
 # Runtime state.
 data/build/
 
 # Download/cache artifacts that are not needed to use the published reader.
 data/vendor/
-

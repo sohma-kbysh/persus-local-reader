@@ -1,0 +1,13 @@
+ObjC.import("Foundation");
+
+const app = Application.currentApplication();
+app.includeStandardAdditions = true;
+
+function shellQuote(value) {
+  return "'" + value.replace(/'/g, "'\\''") + "'";
+}
+
+const appPath = $.NSBundle.mainBundle.bundlePath.js;
+const root = $(appPath).stringByDeletingLastPathComponent.js;
+app.doShellScript("/bin/zsh " + shellQuote(root + "/scripts/update_reader.sh"));
+
